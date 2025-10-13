@@ -8,7 +8,7 @@ const Footer = () => (
             <span style={{ marginLeft: '16px' }}>
                 Follow my socials for more games!<br></br><br></br>
                 <a
-                    href="https://twitter.com/yourusername"
+                    href="https://twitter.com/XavivoDev"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ margin: '0 8px', display: 'inline-flex', alignItems: 'center' }}
@@ -19,7 +19,7 @@ const Footer = () => (
                     </svg>
                 </a>
                 <a
-                    href="https://github.com/yourusername"
+                    href="https://github.com/Xavivo"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ margin: '0 8px', display: 'inline-flex', alignItems: 'center' }}
@@ -30,7 +30,7 @@ const Footer = () => (
                     </svg>
                 </a>
                 <a
-                    href="https://instagram.com/yourusername"
+                    href="https://instagram.com/XavivoDev"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ margin: '0 8px', display: 'inline-flex', alignItems: 'center' }}

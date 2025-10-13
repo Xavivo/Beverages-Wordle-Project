@@ -1,10 +1,12 @@
 import React from 'react';
 import './App.css';
 
-const Button = ({ onClick, children, type = "button", style }) => (
-    <button type={type} onClick={onClick} style={style}>
-        {children}
+const Button = ({ text, onClick }) => {
+  return (
+    <button onClick={onClick}>
+      {text}
     </button>
-);
+  );
+};
 
 export default Button;

@@ -3,9 +3,14 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/logo.svg'
 import './App.css'
 import Button from './button.jsx'
+import { useNavigate } from 'react-router-dom'; // Import useNavigate from react-router-dom
 import Footer from './footer.jsx'
 
 function App() {
+/*  const navigate = useNavigate();
+  const navigateToClassic = () => {
+    navigate('/classic'); // Navigate to the classic mode route
+  };*/
   return (
     <div className="app-background" style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
       <video
@@ -25,12 +30,12 @@ function App() {
       </p>
       <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flex: 1 }}>
         <div style={{ display: 'flex', gap: '24px', marginBottom: '24px' }}>
-          <Button />
-          <Button />
+          <Button text={"Classic"} />
+          <Button text={"Description"}/>
         </div>
         <div style={{ display: 'flex', gap: '24px' }}>
-          <Button />
-          <Button />
+          <Button text={"Siluette"}/>
+          <Button text={"Cocktel mode"}/>
         </div>
       </div>
       <Footer />
