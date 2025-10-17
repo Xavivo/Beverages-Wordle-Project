@@ -1,0 +1,3652 @@
+[
+  {
+    "id": 1,
+    "nombre": "Vodka Smirnoff",
+    "tipo": "Destilado",
+    "pais_origen": "Rusia",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Cereal o Patata",
+    "fecha_creacion_año": 1860,
+    "precio_dolares": 15
+  },
+  {
+    "id": 2,
+    "nombre": "Whisky Escocés (Single Malt)",
+    "tipo": "Destilado",
+    "pais_origen": "Escocia",
+    "graduacion_alcohol": 43.0,
+    "ingrediente_principal": "Cebada malteada",
+    "fecha_creacion_año": 1494,
+    "precio_dolares": 55
+  },
+  {
+    "id": 3,
+    "nombre": "Tequila Añejo",
+    "tipo": "Destilado",
+    "pais_origen": "México",
+    "graduacion_alcohol": 38.0,
+    "ingrediente_principal": "Agave azul",
+    "fecha_creacion_año": 1758,
+    "precio_dolares": 45
+  },
+  {
+    "id": 4,
+    "nombre": "Cerveza Pilsner Urquell",
+    "tipo": "Cerveza Lager",
+    "pais_origen": "República Checa",
+    "graduacion_alcohol": 4.4,
+    "ingrediente_principal": "Malta de cebada",
+    "fecha_creacion_año": 1842,
+    "precio_dolares": 2
+  },
+  {
+    "id": 5,
+    "nombre": "Vino Tinto (Tempranillo Crianza)",
+    "tipo": "Vino",
+    "pais_origen": "España",
+    "graduacion_alcohol": 13.5,
+    "ingrediente_principal": "Uva Tempranillo",
+    "fecha_creacion_año": 100,
+    "precio_dolares": 12
+  },
+  {
+    "id": 6,
+    "nombre": "Ron (Ron Añejo)",
+    "tipo": "Destilado",
+    "pais_origen": "Cuba",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Melaza de caña de azúcar",
+    "fecha_creacion_año": 1650,
+    "precio_dolares": 25
+  },
+  {
+    "id": 7,
+    "nombre": "Ginebra (London Dry)",
+    "tipo": "Destilado",
+    "pais_origen": "Inglaterra",
+    "graduacion_alcohol": 47.0,
+    "ingrediente_principal": "Baya de Enebro",
+    "fecha_creacion_año": 1689,
+    "precio_dolares": 30
+  },
+  {
+    "id": 8,
+    "nombre": "Sake",
+    "tipo": "Fermentado de arroz",
+    "pais_origen": "Japón",
+    "graduacion_alcohol": 15.0,
+    "ingrediente_principal": "Arroz",
+    "fecha_creacion_año": 689,
+    "precio_dolares": 20
+  },
+  {
+    "id": 9,
+    "nombre": "Champagne (Brut)",
+    "tipo": "Vino Espumoso",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 12.0,
+    "ingrediente_principal": "Uva Chardonnay",
+    "fecha_creacion_año": 1693,
+    "precio_dolares": 40
+  },
+  {
+    "id": 10,
+    "nombre": "Absenta",
+    "tipo": "Licor de Hierbas",
+    "pais_origen": "Suiza",
+    "graduacion_alcohol": 75.0,
+    "ingrediente_principal": "Ajenjo",
+    "fecha_creacion_año": 1792,
+    "precio_dolares": 50
+  },
+  {
+    "id": 11,
+    "nombre": "Bourbon",
+    "tipo": "Destilado",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Maíz",
+    "fecha_creacion_año": 1783,
+    "precio_dolares": 28
+  },
+  {
+    "id": 12,
+    "nombre": "Cerveza India Pale Ale (IPA)",
+    "tipo": "Cerveza Ale",
+    "pais_origen": "Inglaterra",
+    "graduacion_alcohol": 6.5,
+    "ingrediente_principal": "Lúpulo",
+    "fecha_creacion_año": 1840,
+    "precio_dolares": 3
+  },
+  {
+    "id": 13,
+    "nombre": "Oporto (Tawny)",
+    "tipo": "Vino Fortificado",
+    "pais_origen": "Portugal",
+    "graduacion_alcohol": 20.0,
+    "ingrediente_principal": "Uva Tinta",
+    "fecha_creacion_año": 1678,
+    "precio_dolares": 35
+  },
+  {
+    "id": 14,
+    "nombre": "Mezcal",
+    "tipo": "Destilado",
+    "pais_origen": "México",
+    "graduacion_alcohol": 45.0,
+    "ingrediente_principal": "Agave espadín",
+    "fecha_creacion_año": 1530,
+    "precio_dolares": 60
+  },
+  {
+    "id": 15,
+    "nombre": "Sidra (Seca)",
+    "tipo": "Fermentado de fruta",
+    "pais_origen": "España",
+    "graduacion_alcohol": 5.5,
+    "ingrediente_principal": "Manzana",
+    "fecha_creacion_año": 50,
+    "precio_dolares": 5
+  },
+  {
+    "id": 16,
+    "nombre": "Cerveza Stout (Guinness)",
+    "tipo": "Cerveza Ale",
+    "pais_origen": "Irlanda",
+    "graduacion_alcohol": 4.2,
+    "ingrediente_principal": "Malta de cebada tostada",
+    "fecha_creacion_año": 1759,
+    "precio_dolares": 3
+  },
+  {
+    "id": 17,
+    "nombre": "Cognac (VSOP)",
+    "tipo": "Brandy",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Uva Ugni Blanc",
+    "fecha_creacion_año": 1600,
+    "precio_dolares": 70
+  },
+  {
+    "id": 18,
+    "nombre": "Cachaça",
+    "tipo": "Destilado",
+    "pais_origen": "Brasil",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Jugo de caña de azúcar",
+    "fecha_creacion_año": 1532,
+    "precio_dolares": 18
+  },
+  {
+    "id": 19,
+    "nombre": "Vino Blanco (Sauvignon Blanc)",
+    "tipo": "Vino",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 12.5,
+    "ingrediente_principal": "Uva Sauvignon Blanc",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 10
+  },
+  {
+    "id": 20,
+    "nombre": "Licor de Naranja (Cointreau)",
+    "tipo": "Licor",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Cáscara de naranja",
+    "fecha_creacion_año": 1875,
+    "precio_dolares": 35
+  },
+  {
+    "id": 21,
+    "nombre": "Grappa",
+    "tipo": "Destilado de orujo",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 42.0,
+    "ingrediente_principal": "Orujo de uva",
+    "fecha_creacion_año": 1451,
+    "precio_dolares": 30
+  },
+  {
+    "id": 22,
+    "nombre": "Pisco",
+    "tipo": "Destilado",
+    "pais_origen": "Perú",
+    "graduacion_alcohol": 43.0,
+    "ingrediente_principal": "Uva Quebranta",
+    "fecha_creacion_año": 1613,
+    "precio_dolares": 22
+  },
+  {
+    "id": 23,
+    "nombre": "Cerveza Lambic (Gueuze)",
+    "tipo": "Cerveza Fermentación espontánea",
+    "pais_origen": "Bélgica",
+    "graduacion_alcohol": 5.0,
+    "ingrediente_principal": "Trigo malteado",
+    "fecha_creacion_año": 1559,
+    "precio_dolares": 7
+  },
+  {
+    "id": 24,
+    "nombre": "Jerez (Fino)",
+    "tipo": "Vino Fortificado",
+    "pais_origen": "España",
+    "graduacion_alcohol": 15.0,
+    "ingrediente_principal": "Uva Palomino",
+    "fecha_creacion_año": 1600,
+    "precio_dolares": 15
+  },
+  {
+    "id": 25,
+    "nombre": "Aperitivo Amaro",
+    "tipo": "Licor de Hierbas",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 30.0,
+    "ingrediente_principal": "Raíces y Hierbas amargas",
+    "fecha_creacion_año": 1800,
+    "precio_dolares": 25
+  },
+  {
+    "id": 26,
+    "nombre": "Soju",
+    "tipo": "Destilado",
+    "pais_origen": "Corea del Sur",
+    "graduacion_alcohol": 17.0,
+    "ingrediente_principal": "Arroz",
+    "fecha_creacion_año": 1300,
+    "precio_dolares": 5
+  },
+  {
+    "id": 27,
+    "nombre": "Aquavit",
+    "tipo": "Destilado",
+    "pais_origen": "Noruega",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Semilla de Alcaravea",
+    "fecha_creacion_año": 1531,
+    "precio_dolares": 40
+  },
+  {
+    "id": 28,
+    "nombre": "Armagnac",
+    "tipo": "Brandy",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Uva Baco Blanc",
+    "fecha_creacion_año": 1310,
+    "precio_dolares": 65
+  },
+  {
+    "id": 29,
+    "nombre": "Cerveza Hefeweizen",
+    "tipo": "Cerveza de Trigo",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 5.2,
+    "ingrediente_principal": "Malta de trigo",
+    "fecha_creacion_año": 1500,
+    "precio_dolares": 2
+  },
+  {
+    "id": 30,
+    "nombre": "Vino Rosado (Provenza)",
+    "tipo": "Vino",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 13.0,
+    "ingrediente_principal": "Uva Grenache",
+    "fecha_creacion_año": 600,
+    "precio_dolares": 15
+  },
+  {
+    "id": 31,
+    "nombre": "Licor de Cereza (Kirschwasser)",
+    "tipo": "Destilado de fruta",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Cereza negra",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 35
+  },
+  {
+    "id": 32,
+    "nombre": "Scotch Whisky (Blended)",
+    "tipo": "Destilado",
+    "pais_origen": "Escocia",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Cebada y otros cereales",
+    "fecha_creacion_año": 1853,
+    "precio_dolares": 25
+  },
+  {
+    "id": 33,
+    "nombre": "Cerveza Porter",
+    "tipo": "Cerveza Ale",
+    "pais_origen": "Inglaterra",
+    "graduacion_alcohol": 5.5,
+    "ingrediente_principal": "Malta oscura",
+    "fecha_creacion_año": 1722,
+    "precio_dolares": 3
+  },
+  {
+    "id": 34,
+    "nombre": "Vino de Hielo (Ice Wine)",
+    "tipo": "Vino de postre",
+    "pais_origen": "Canadá",
+    "graduacion_alcohol": 10.0,
+    "ingrediente_principal": "Uva congelada",
+    "fecha_creacion_año": 1794,
+    "precio_dolares": 80
+  },
+  {
+    "id": 35,
+    "nombre": "Ouzo",
+    "tipo": "Licor de Anís",
+    "pais_origen": "Grecia",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Semilla de Anís",
+    "fecha_creacion_año": 1800,
+    "precio_dolares": 20
+  },
+  {
+    "id": 36,
+    "nombre": "Irish Whiskey (Triple Destilado)",
+    "tipo": "Destilado",
+    "pais_origen": "Irlanda",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Cebada no malteada",
+    "fecha_creacion_año": 1780,
+    "precio_dolares": 30
+  },
+  {
+    "id": 37,
+    "nombre": "Calvados (AOC)",
+    "tipo": "Brandy de fruta",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Manzana",
+    "fecha_creacion_año": 1553,
+    "precio_dolares": 45
+  },
+  {
+    "id": 38,
+    "nombre": "Vino Tokaji Aszú",
+    "tipo": "Vino de postre",
+    "pais_origen": "Hungría",
+    "graduacion_alcohol": 12.0,
+    "ingrediente_principal": "Uva Furmint",
+    "fecha_creacion_año": 1630,
+    "precio_dolares": 55
+  },
+  {
+    "id": 39,
+    "nombre": "Gin Old Tom",
+    "tipo": "Destilado",
+    "pais_origen": "Inglaterra",
+    "graduacion_alcohol": 43.0,
+    "ingrediente_principal": "Baya de Enebro",
+    "fecha_creacion_año": 1800,
+    "precio_dolares": 38
+  },
+  {
+    "id": 40,
+    "nombre": "Shochu",
+    "tipo": "Destilado",
+    "pais_origen": "Japón",
+    "graduacion_alcohol": 25.0,
+    "ingrediente_principal": "Boniato o Cebada",
+    "fecha_creacion_año": 1500,
+    "precio_dolares": 17
+  },
+  {
+    "id": 41,
+    "nombre": "Aguardiente de Caña (Claro)",
+    "tipo": "Destilado",
+    "pais_origen": "Colombia",
+    "graduacion_alcohol": 29.0,
+    "ingrediente_principal": "Caña de azúcar",
+    "fecha_creacion_año": 1500,
+    "precio_dolares": 15
+  },
+  {
+    "id": 42,
+    "nombre": "Vino (Riesling Seco)",
+    "tipo": "Vino Blanco",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 11.5,
+    "ingrediente_principal": "Uva Riesling",
+    "fecha_creacion_año": 1435,
+    "precio_dolares": 18
+  },
+  {
+    "id": 43,
+    "nombre": "Licor de Melón (Midori)",
+    "tipo": "Licor",
+    "pais_origen": "Japón",
+    "graduacion_alcohol": 20.0,
+    "ingrediente_principal": "Melón",
+    "fecha_creacion_año": 1978,
+    "precio_dolares": 22
+  },
+  {
+    "id": 44,
+    "nombre": "Brandy de Ciruela (Slivovitz)",
+    "tipo": "Destilado de fruta",
+    "pais_origen": "Serbia",
+    "graduacion_alcohol": 45.0,
+    "ingrediente_principal": "Ciruela",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 28
+  },
+  {
+    "id": 45,
+    "nombre": "Cerveza Saison/Farmhouse Ale",
+    "tipo": "Cerveza Ale",
+    "pais_origen": "Bélgica",
+    "graduacion_alcohol": 6.5,
+    "ingrediente_principal": "Cebada y Especias",
+    "fecha_creacion_año": 1900,
+    "precio_dolares": 4
+  },
+  {
+    "id": 46,
+    "nombre": "Aperitivo (Campari)",
+    "tipo": "Amargo",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 28.5,
+    "ingrediente_principal": "Hierbas y Frutas amargas",
+    "fecha_creacion_año": 1860,
+    "precio_dolares": 25
+  },
+  {
+    "id": 47,
+    "nombre": "Licor de Café (Kahlúa)",
+    "tipo": "Licor",
+    "pais_origen": "México",
+    "graduacion_alcohol": 20.0,
+    "ingrediente_principal": "Grano de café",
+    "fecha_creacion_año": 1936,
+    "precio_dolares": 20
+  },
+  {
+    "id": 48,
+    "nombre": "Moonshine",
+    "tipo": "Destilado (no envejecido)",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 50.0,
+    "ingrediente_principal": "Maíz",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 30
+  },
+  {
+    "id": 49,
+    "nombre": "Vino (Pinot Noir)",
+    "tipo": "Vino Tinto",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 13.5,
+    "ingrediente_principal": "Uva Pinot Noir",
+    "fecha_creacion_año": 100,
+    "precio_dolares": 20
+  },
+  {
+    "id": 50,
+    "nombre": "Cerveza India Pale Lager (IPL)",
+    "tipo": "Cerveza Híbrida",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 6.0,
+    "ingrediente_principal": "Lúpulo",
+    "fecha_creacion_año": 2000,
+    "precio_dolares": 3
+  },
+  {
+    "id": 51,
+    "nombre": "Pastis",
+    "tipo": "Licor de Anís",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 45.0,
+    "ingrediente_principal": "Semilla de Anís",
+    "fecha_creacion_año": 1915,
+    "precio_dolares": 25
+  },
+  {
+    "id": 52,
+    "nombre": "Brandy Español (Solera Gran Reserva)",
+    "tipo": "Brandy",
+    "pais_origen": "España",
+    "graduacion_alcohol": 36.0,
+    "ingrediente_principal": "Uva Airén",
+    "fecha_creacion_año": 1772,
+    "precio_dolares": 40
+  },
+  {
+    "id": 53,
+    "nombre": "Licor de Coco (Malibú)",
+    "tipo": "Licor de Ron",
+    "pais_origen": "Barbados",
+    "graduacion_alcohol": 21.0,
+    "ingrediente_principal": "Coco y Ron",
+    "fecha_creacion_año": 1980,
+    "precio_dolares": 18
+  },
+  {
+    "id": 54,
+    "nombre": "Schnapps de Melocotón",
+    "tipo": "Licor",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 15.0,
+    "ingrediente_principal": "Melocotón",
+    "fecha_creacion_año": 1984,
+    "precio_dolares": 12
+  },
+  {
+    "id": 55,
+    "nombre": "Vino Fortificado (Madeira)",
+    "tipo": "Vino Fortificado",
+    "pais_origen": "Portugal",
+    "graduacion_alcohol": 19.0,
+    "ingrediente_principal": "Uva Tinta Negra Mole",
+    "fecha_creacion_año": 1450,
+    "precio_dolares": 35
+  },
+  {
+    "id": 56,
+    "nombre": "Sake Nigori",
+    "tipo": "Fermentado de arroz (sin filtrar)",
+    "pais_origen": "Japón",
+    "graduacion_alcohol": 14.0,
+    "ingrediente_principal": "Arroz",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 25
+  },
+  {
+    "id": 57,
+    "nombre": "Grappa de Barolo",
+    "tipo": "Destilado de orujo",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 45.0,
+    "ingrediente_principal": "Orujo de uva Nebbiolo",
+    "fecha_creacion_año": 1800,
+    "precio_dolares": 40
+  },
+  {
+    "id": 58,
+    "nombre": "Gin (Plymouth Gin)",
+    "tipo": "Destilado",
+    "pais_origen": "Inglaterra",
+    "graduacion_alcohol": 41.2,
+    "ingrediente_principal": "Baya de Enebro",
+    "fecha_creacion_año": 1793,
+    "precio_dolares": 35
+  },
+  {
+    "id": 59,
+    "nombre": "Vino Naranja",
+    "tipo": "Vino Blanco (con contacto con piel)",
+    "pais_origen": "Georgia",
+    "graduacion_alcohol": 12.5,
+    "ingrediente_principal": "Uva Rkatsiteli",
+    "fecha_creacion_año": 6000,
+    "precio_dolares": 30
+  },
+  {
+    "id": 60,
+    "nombre": "Cerveza Weizenbock",
+    "tipo": "Cerveza de Trigo Fuerte",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 7.5,
+    "ingrediente_principal": "Malta de trigo",
+    "fecha_creacion_año": 1907,
+    "precio_dolares": 4
+  },
+  {
+    "id": 61,
+    "nombre": "Licor de Hierbas (Chartreuse Verde)",
+    "tipo": "Licor de Hierbas",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 55.0,
+    "ingrediente_principal": "Ciento treinta hierbas",
+    "fecha_creacion_año": 1605,
+    "precio_dolares": 60
+  },
+  {
+    "id": 62,
+    "nombre": "Brandy (Metaxa 7 estrellas)",
+    "tipo": "Brandy",
+    "pais_origen": "Grecia",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Uva Savatiano y Pasas",
+    "fecha_creacion_año": 1888,
+    "precio_dolares": 30
+  },
+  {
+    "id": 63,
+    "nombre": "Cerveza Doble IPA (DIPA)",
+    "tipo": "Cerveza Ale",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 8.0,
+    "ingrediente_principal": "Lúpulo (doble cantidad)",
+    "fecha_creacion_año": 1990,
+    "precio_dolares": 5
+  },
+  {
+    "id": 64,
+    "nombre": "Vino Fortificado (Marsala)",
+    "tipo": "Vino Fortificado",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 17.0,
+    "ingrediente_principal": "Uva Grillo",
+    "fecha_creacion_año": 1773,
+    "precio_dolares": 20
+  },
+  {
+    "id": 65,
+    "nombre": "Aperitivo (Vermut Rojo)",
+    "tipo": "Vino Aromatizado",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 15.0,
+    "ingrediente_principal": "Vino y Ajénjo",
+    "fecha_creacion_año": 1786,
+    "precio_dolares": 15
+  },
+  {
+    "id": 66,
+    "nombre": "Arrack",
+    "tipo": "Destilado",
+    "pais_origen": "Sri Lanka",
+    "graduacion_alcohol": 33.0,
+    "ingrediente_principal": "Savia de flor de Coco",
+    "fecha_creacion_año": 500,
+    "precio_dolares": 25
+  },
+  {
+    "id": 67,
+    "nombre": "Shōchū (Awamori)",
+    "tipo": "Destilado de arroz",
+    "pais_origen": "Japón",
+    "graduacion_alcohol": 30.0,
+    "ingrediente_principal": "Arroz de grano largo",
+    "fecha_creacion_año": 1400,
+    "precio_dolares": 28
+  },
+  {
+    "id": 68,
+    "nombre": "Borovicka",
+    "tipo": "Destilado de enebro",
+    "pais_origen": "Eslovaquia",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Baya de Enebro",
+    "fecha_creacion_año": 1500,
+    "precio_dolares": 35
+  },
+  {
+    "id": 69,
+    "nombre": "Whisky de Centeno (Rye)",
+    "tipo": "Destilado",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 45.0,
+    "ingrediente_principal": "Centeno",
+    "fecha_creacion_año": 1750,
+    "precio_dolares": 40
+  },
+  {
+    "id": 70,
+    "nombre": "Licor de Plátano (Créme de Banane)",
+    "tipo": "Licor",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 25.0,
+    "ingrediente_principal": "Plátano",
+    "fecha_creacion_año": 1890,
+    "precio_dolares": 18
+  },
+  {
+    "id": 71,
+    "nombre": "Cerveza Gose",
+    "tipo": "Cerveza de Trigo (ácida)",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 4.5,
+    "ingrediente_principal": "Cilantro y Sal",
+    "fecha_creacion_año": 1740,
+    "precio_dolares": 4
+  },
+  {
+    "id": 72,
+    "nombre": "Vino (Prosecco)",
+    "tipo": "Vino Espumoso",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 11.0,
+    "ingrediente_principal": "Uva Glera",
+    "fecha_creacion_año": 1750,
+    "precio_dolares": 15
+  },
+  {
+    "id": 73,
+    "nombre": "Licor de Almendras (Amaretto)",
+    "tipo": "Licor",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 28.0,
+    "ingrediente_principal": "Almendra y huesos de albaricoque",
+    "fecha_creacion_año": 1525,
+    "precio_dolares": 22
+  },
+  {
+    "id": 74,
+    "nombre": "Tequila Blanco (Plata)",
+    "tipo": "Destilado",
+    "pais_origen": "México",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Agave azul",
+    "fecha_creacion_año": 1758,
+    "precio_dolares": 25
+  },
+  {
+    "id": 75,
+    "nombre": "Sljivovica",
+    "tipo": "Brandy de fruta",
+    "pais_origen": "Croacia",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Ciruela",
+    "fecha_creacion_año": 1800,
+    "precio_dolares": 25
+  },
+  {
+    "id": 76,
+    "nombre": "Licor de Cassis (Créme de Cassis)",
+    "tipo": "Licor de Fruta",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 15.0,
+    "ingrediente_principal": "Grosella Negra",
+    "fecha_creacion_año": 1841,
+    "precio_dolares": 18
+  },
+  {
+    "id": 77,
+    "nombre": "Ron Overproof",
+    "tipo": "Destilado (Alta Graduación)",
+    "pais_origen": "Jamaica",
+    "graduacion_alcohol": 63.0,
+    "ingrediente_principal": "Melaza de caña de azúcar",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 35
+  },
+  {
+    "id": 78,
+    "nombre": "Cerveza Tripel",
+    "tipo": "Cerveza Ale (Trapense)",
+    "pais_origen": "Bélgica",
+    "graduacion_alcohol": 9.0,
+    "ingrediente_principal": "Malta pálida y Azúcar",
+    "fecha_creacion_año": 1934,
+    "precio_dolares": 6
+  },
+  {
+    "id": 79,
+    "nombre": "Aguardiente de Patata (Poitín)",
+    "tipo": "Destilado",
+    "pais_origen": "Irlanda",
+    "graduacion_alcohol": 45.0,
+    "ingrediente_principal": "Patata o Malta",
+    "fecha_creacion_año": 584,
+    "precio_dolares": 45
+  },
+  {
+    "id": 80,
+    "nombre": "Vino (Zinfandel)",
+    "tipo": "Vino Tinto",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 14.5,
+    "ingrediente_principal": "Uva Zinfandel",
+    "fecha_creacion_año": 1850,
+    "precio_dolares": 18
+  },
+  {
+    "id": 81,
+    "nombre": "Licor de Nuez (Nocino)",
+    "tipo": "Licor de Fruto Seco",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Nuez verde",
+    "fecha_creacion_año": 1600,
+    "precio_dolares": 30
+  },
+  {
+    "id": 82,
+    "nombre": "Brandy de Cereza (Kirsch)",
+    "tipo": "Destilado de fruta",
+    "pais_origen": "Suiza",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Cereza",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 35
+  },
+  {
+    "id": 83,
+    "nombre": "Pacharán",
+    "tipo": "Licor de Fruta",
+    "pais_origen": "España",
+    "graduacion_alcohol": 25.0,
+    "ingrediente_principal": "Endrina",
+    "fecha_creacion_año": 1900,
+    "precio_dolares": 15
+  },
+  {
+    "id": 84,
+    "nombre": "Cerveza Kolsch",
+    "tipo": "Cerveza Híbrida",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 4.8,
+    "ingrediente_principal": "Malta de cebada",
+    "fecha_creacion_año": 1906,
+    "precio_dolares": 2
+  },
+  {
+    "id": 85,
+    "nombre": "Vino de postre (Sauternes)",
+    "tipo": "Vino de postre",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 13.0,
+    "ingrediente_principal": "Uva Sémillon (Botritis)",
+    "fecha_creacion_año": 1855,
+    "precio_dolares": 65
+  },
+  {
+    "id": 86,
+    "nombre": "Horilka (Akvavit)",
+    "tipo": "Destilado",
+    "pais_origen": "Ucrania",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Grano de cereal o Patata",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 12
+  },
+  {
+    "id": 87,
+    "nombre": "Sake Umeshu",
+    "tipo": "Licor de Fruta (Base Sake)",
+    "pais_origen": "Japón",
+    "graduacion_alcohol": 10.0,
+    "ingrediente_principal": "Ciruela Ume",
+    "fecha_creacion_año": 1600,
+    "precio_dolares": 25
+  },
+ {
+    "id": 88,
+    "nombre": "Cognac (Louis XIII Very Old)",
+    "tipo": "Destilado (Cognac)",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Uva Ugni Blanc (de Grande Champagne)",
+    "fecha_creacion_año": 1874,
+    "precio_dolares": 3500
+  },
+  {
+    "id": 89,
+    "nombre": "Licor de Huevo (Advocaat)",
+    "tipo": "Licor Crema",
+    "pais_origen": "Países Bajos",
+    "graduacion_alcohol": 20.0,
+    "ingrediente_principal": "Yema de Huevo",
+    "fecha_creacion_año": 1882,
+    "precio_dolares": 20
+  },
+  {
+    "id": 90,
+    "nombre": "Ron Agrícola (Rhum Agricole)",
+    "tipo": "Destilado",
+    "pais_origen": "Martinica (Francia)",
+    "graduacion_alcohol": 50.0,
+    "ingrediente_principal": "Jugo de caña de azúcar",
+    "fecha_creacion_año": 1800,
+    "precio_dolares": 45
+  },
+  {
+    "id": 91,
+    "nombre": "Cerveza Berliner Weisse",
+    "tipo": "Cerveza de Trigo (ácida)",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 3.0,
+    "ingrediente_principal": "Malta de trigo",
+    "fecha_creacion_año": 1600,
+    "precio_dolares": 3
+  },
+  {
+    "id": 92,
+    "nombre": "Vino (Chardonnay con Barrica)",
+    "tipo": "Vino Blanco",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 14.0,
+    "ingrediente_principal": "Uva Chardonnay",
+    "fecha_creacion_año": 1976,
+    "precio_dolares": 25
+  },
+  {
+    "id": 93,
+    "nombre": "Licor de Menta (Créme de Menthe)",
+    "tipo": "Licor",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 25.0,
+    "ingrediente_principal": "Hojas de Menta",
+    "fecha_creacion_año": 1885,
+    "precio_dolares": 15
+  },
+  {
+    "id": 94,
+    "nombre": "Scotch Whisky (Islay Peated)",
+    "tipo": "Destilado (Turba)",
+    "pais_origen": "Escocia",
+    "graduacion_alcohol": 46.0,
+    "ingrediente_principal": "Cebada malteada (Ahumada)",
+    "fecha_creacion_año": 1815,
+    "precio_dolares": 70
+  },
+  {
+    "id": 95,
+    "nombre": "Vino Fortificado (Vino de Naranja)",
+    "tipo": "Vino Fortificado",
+    "pais_origen": "España",
+    "graduacion_alcohol": 15.0,
+    "ingrediente_principal": "Vino y Cáscara de Naranja",
+    "fecha_creacion_año": 1870,
+    "precio_dolares": 25
+  },
+  {
+    "id": 96,
+    "nombre": "Cerveza Flanders Red Ale",
+    "tipo": "Cerveza Ale (ácida)",
+    "pais_origen": "Bélgica",
+    "graduacion_alcohol": 6.2,
+    "ingrediente_principal": "Malta caramelizada",
+    "fecha_creacion_año": 1800,
+    "precio_dolares": 7
+  },
+  {
+    "id": 97,
+    "nombre": "Brandy de Malta (Malt Whisky)",
+    "tipo": "Destilado",
+    "pais_origen": "Japón",
+    "graduacion_alcohol": 43.0,
+    "ingrediente_principal": "Cebada malteada",
+    "fecha_creacion_año": 1923,
+    "precio_dolares": 50
+  },
+  {
+    "id": 98,
+    "nombre": "Licor de Canela (Fireball)",
+    "tipo": "Licor",
+    "pais_origen": "Canadá",
+    "graduacion_alcohol": 33.0,
+    "ingrediente_principal": "Canela",
+    "fecha_creacion_año": 1984,
+    "precio_dolares": 15
+  },
+  {
+    "id": 99,
+    "nombre": "Vino (Cabernet Sauvignon)",
+    "tipo": "Vino Tinto",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 13.8,
+    "ingrediente_principal": "Uva Cabernet Sauvignon",
+    "fecha_creacion_año": 1600,
+    "precio_dolares": 15
+  },
+  {
+    "id": 100,
+    "nombre": "Licor de Cereza (Maraschino)",
+    "tipo": "Licor de Fruta",
+    "pais_origen": "Croacia",
+    "graduacion_alcohol": 32.0,
+    "ingrediente_principal": "Cereza Marrasca",
+    "fecha_creacion_año": 1759,
+    "precio_dolares": 28
+  },
+  {
+    "id": 101,
+    "nombre": "Vino Tokaji Eszencia",
+    "tipo": "Vino de postre (Concentrado)",
+    "pais_origen": "Hungría",
+    "graduacion_alcohol": 5.0,
+    "ingrediente_principal": "Uva Furmint",
+    "fecha_creacion_año": 1630,
+    "precio_dolares": 300
+  },
+  {
+    "id": 102,
+    "nombre": "Licor de Limón (Limoncello)",
+    "tipo": "Licor de Fruta",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 30.0,
+    "ingrediente_principal": "Cáscara de Limón",
+    "fecha_creacion_año": 1900,
+    "precio_dolares": 20
+  },
+  {
+    "id": 103,
+    "nombre": "Cerveza Rauchbier",
+    "tipo": "Cerveza Lager Ahumada",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 5.1,
+    "ingrediente_principal": "Malta ahumada",
+    "fecha_creacion_año": 1600,
+    "precio_dolares": 4
+  },
+  {
+    "id": 104,
+    "nombre": "Jenever (Oude Genever)",
+    "tipo": "Destilado (Ancestral de Ginebra)",
+    "pais_origen": "Países Bajos",
+    "graduacion_alcohol": 35.0,
+    "ingrediente_principal": "Cebada y Baya de Enebro",
+    "fecha_creacion_año": 1600,
+    "precio_dolares": 30
+  },
+  {
+    "id": 105,
+    "nombre": "Singani",
+    "tipo": "Destilado de Uva",
+    "pais_origen": "Bolivia",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Uva Moscatel de Alejandría",
+    "fecha_creacion_año": 1530,
+    "precio_dolares": 25
+  },
+  {
+    "id": 106,
+    "nombre": "Licor de Miel y Whisky (Drambuie)",
+    "tipo": "Licor",
+    "pais_origen": "Escocia",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Whisky Escocés y Miel",
+    "fecha_creacion_año": 1745,
+    "precio_dolares": 40
+  },
+  {
+    "id": 107,
+    "nombre": "Vino Tinto (Malbec)",
+    "tipo": "Vino Tinto",
+    "pais_origen": "Argentina",
+    "graduacion_alcohol": 14.0,
+    "ingrediente_principal": "Uva Malbec",
+    "fecha_creacion_año": 1850,
+    "precio_dolares": 15
+  },
+  {
+    "id": 108,
+    "nombre": "Brandy de Pera (Poire William)",
+    "tipo": "Destilado de fruta",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 43.0,
+    "ingrediente_principal": "Pera Williams",
+    "fecha_creacion_año": 1800,
+    "precio_dolares": 55
+  },
+  {
+    "id": 109,
+    "nombre": "Cerveza Dubbel",
+    "tipo": "Cerveza Ale (Trapense)",
+    "pais_origen": "Bélgica",
+    "graduacion_alcohol": 7.0,
+    "ingrediente_principal": "Malta de cebada",
+    "fecha_creacion_año": 1926,
+    "precio_dolares": 5
+  },
+  {
+    "id": 110,
+    "nombre": "Licor de Almendra (Orgeat)",
+    "tipo": "Jarabe/Licor (No alcohólico base)",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 0.0,
+    "ingrediente_principal": "Almendra y Agua de Rosas",
+    "fecha_creacion_año": 1800,
+    "precio_dolares": 12
+  },
+  {
+    "id": 111,
+    "nombre": "Whisky Canadiense",
+    "tipo": "Destilado (Blended)",
+    "pais_origen": "Canadá",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Centeno y Maíz",
+    "fecha_creacion_año": 1858,
+    "precio_dolares": 20
+  },
+  {
+    "id": 112,
+    "nombre": "Vino Fortificado (Vino de Oporto Branco)",
+    "tipo": "Vino Fortificado",
+    "pais_origen": "Portugal",
+    "graduacion_alcohol": 19.5,
+    "ingrediente_principal": "Uva Malvasia Fina",
+    "fecha_creacion_año": 1678,
+    "precio_dolares": 25
+  },
+  {
+    "id": 113,
+    "nombre": "Aperitivo (Aperol)",
+    "tipo": "Amargo",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 11.0,
+    "ingrediente_principal": "Naranja amarga y Ruibarbo",
+    "fecha_creacion_año": 1919,
+    "precio_dolares": 20
+  },
+  {
+    "id": 114,
+    "nombre": "Ron Spiced (Especiado)",
+    "tipo": "Destilado (Aromatizado)",
+    "pais_origen": "Varios (Caribe)",
+    "graduacion_alcohol": 35.0,
+    "ingrediente_principal": "Ron y Especias",
+    "fecha_creacion_año": 1800,
+    "precio_dolares": 20
+  },
+  {
+    "id": 115,
+    "nombre": "Vino Naranja (Huelva)",
+    "tipo": "Vino Fortificado",
+    "pais_origen": "España",
+    "graduacion_alcohol": 15.0,
+    "ingrediente_principal": "Vino y Cáscara de Naranja",
+    "fecha_creacion_año": 1870,
+    "precio_dolares": 25
+  },
+  {
+    "id": 116,
+    "nombre": "Licor de Higo (Licor de Higo)",
+    "tipo": "Licor de Fruta",
+    "pais_origen": "Croacia",
+    "graduacion_alcohol": 25.0,
+    "ingrediente_principal": "Higo",
+    "fecha_creacion_año": 1900,
+    "precio_dolares": 18
+  },
+  {
+    "id": 117,
+    "nombre": "Mezcal (Tobalá)",
+    "tipo": "Destilado",
+    "pais_origen": "México",
+    "graduacion_alcohol": 48.0,
+    "ingrediente_principal": "Agave Tobalá",
+    "fecha_creacion_año": 1530,
+    "precio_dolares": 80
+  },
+  {
+    "id": 118,
+    "nombre": "Cerveza Imperial Stout",
+    "tipo": "Cerveza Ale Fuerte",
+    "pais_origen": "Inglaterra",
+    "graduacion_alcohol": 10.0,
+    "ingrediente_principal": "Malta muy tostada",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 8
+  },
+  {
+    "id": 119,
+    "nombre": "Vino Tinto (Garnacha)",
+    "tipo": "Vino Tinto",
+    "pais_origen": "España",
+    "graduacion_alcohol": 14.5,
+    "ingrediente_principal": "Uva Garnacha",
+    "fecha_creacion_año": 100,
+    "precio_dolares": 12
+  },
+  {
+    "id": 120,
+    "nombre": "Brandy (Cognac XO)",
+    "tipo": "Brandy",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Uva Ugni Blanc",
+    "fecha_creacion_año": 1870,
+    "precio_dolares": 200
+  },
+  {
+    "id": 121,
+    "nombre": "Sotol",
+    "tipo": "Destilado de Dasylirion",
+    "pais_origen": "México",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Sotol (Dasylirion)",
+    "fecha_creacion_año": 1660,
+    "precio_dolares": 50
+  },
+  {
+    "id": 122,
+    "nombre": "Licor de Hojas de Coca (Coca de Bola)",
+    "tipo": "Licor de Hierbas",
+    "pais_origen": "Bolivia",
+    "graduacion_alcohol": 30.0,
+    "ingrediente_principal": "Hoja de Coca",
+    "fecha_creacion_año": 1980,
+    "precio_dolares": 35
+  },
+  {
+    "id": 123,
+    "nombre": "Cerveza Saison (Farmhouse Ale)",
+    "tipo": "Cerveza Ale",
+    "pais_origen": "Bélgica",
+    "graduacion_alcohol": 6.5,
+    "ingrediente_principal": "Malta pálida",
+    "fecha_creacion_año": 1900,
+    "precio_dolares": 4
+  },
+  {
+    "id": 124,
+    "nombre": "Vino (Pinot Grigio)",
+    "tipo": "Vino Blanco",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 12.0,
+    "ingrediente_principal": "Uva Pinot Grigio",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 10
+  },
+  {
+    "id": 125,
+    "nombre": "Whisky Japonés (Blended)",
+    "tipo": "Destilado",
+    "pais_origen": "Japón",
+    "graduacion_alcohol": 43.0,
+    "ingrediente_principal": "Cebada malteada",
+    "fecha_creacion_año": 1923,
+    "precio_dolares": 45
+  },
+  {
+    "id": 126,
+    "nombre": "Cerveza Cruzcampo (Pilsen)",
+    "tipo": "Cerveza Pale Lager",
+    "pais_origen": "España",
+    "graduacion_alcohol": 4.8,
+    "ingrediente_principal": "Malta de cebada",
+    "fecha_creacion_año": 1904,
+    "precio_dolares": 1
+  },
+  {
+    "id": 127,
+    "nombre": "Cerveza Estrella Galicia (Especial)",
+    "tipo": "Cerveza Lager",
+    "pais_origen": "España",
+    "graduacion_alcohol": 5.5,
+    "ingrediente_principal": "Malta de cebada",
+    "fecha_creacion_año": 1906,
+    "precio_dolares": 2
+  },
+  {
+    "id": 128,
+    "nombre": "Cerveza Baltic Porter",
+    "tipo": "Cerveza Lager Oscura",
+    "pais_origen": "Países Bálticos",
+    "graduacion_alcohol": 8.5,
+    "ingrediente_principal": "Malta tostada",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 6
+  },
+  {
+    "id": 129,
+    "nombre": "Vino (Albariño)",
+    "tipo": "Vino Blanco",
+    "pais_origen": "España",
+    "graduacion_alcohol": 12.5,
+    "ingrediente_principal": "Uva Albariño",
+    "fecha_creacion_año": 1100,
+    "precio_dolares": 15
+  },
+  {
+    "id": 130,
+    "nombre": "Licor de Naranja Amarga (Curazao Azul)",
+    "tipo": "Licor de Fruta",
+    "pais_origen": "Curazao",
+    "graduacion_alcohol": 25.0,
+    "ingrediente_principal": "Cáscara de Naranja Laraha",
+    "fecha_creacion_año": 1896,
+    "precio_dolares": 18
+  },
+  {
+    "id": 131,
+    "nombre": "Cerveza Witbier (Blanca Belga)",
+    "tipo": "Cerveza de Trigo",
+    "pais_origen": "Bélgica",
+    "graduacion_alcohol": 5.0,
+    "ingrediente_principal": "Trigo no malteado y Cilantro",
+    "fecha_creacion_año": 1400,
+    "precio_dolares": 3
+  },
+  {
+    "id": 132,
+    "nombre": "Whisky de Maíz (Corn Whiskey)",
+    "tipo": "Destilado (no envejecido)",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Maíz (>80%)",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 25
+  },
+  {
+    "id": 133,
+    "nombre": "Vino Fortificado (Jerez Oloroso)",
+    "tipo": "Vino Fortificado",
+    "pais_origen": "España",
+    "graduacion_alcohol": 20.0,
+    "ingrediente_principal": "Uva Palomino",
+    "fecha_creacion_año": 1600,
+    "precio_dolares": 30
+  },
+  {
+    "id": 134,
+    "nombre": "Cerveza Brown Ale",
+    "tipo": "Cerveza Ale",
+    "pais_origen": "Inglaterra",
+    "graduacion_alcohol": 5.0,
+    "ingrediente_principal": "Malta caramelizada",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 3
+  },
+  {
+    "id": 135,
+    "nombre": "Licor de Anís (Anisette)",
+    "tipo": "Licor de Anís",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 25.0,
+    "ingrediente_principal": "Anís Verde",
+    "fecha_creacion_año": 1800,
+    "precio_dolares": 22
+  },
+  {
+    "id": 136,
+    "nombre": "Ron (Cachaca Envejecida)",
+    "tipo": "Destilado",
+    "pais_origen": "Brasil",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Jugo de caña de azúcar",
+    "fecha_creacion_año": 1532,
+    "precio_dolares": 35
+  },
+  {
+    "id": 137,
+    "nombre": "Cerveza Bock",
+    "tipo": "Cerveza Lager Oscura",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 6.5,
+    "ingrediente_principal": "Malta Munich",
+    "fecha_creacion_año": 1600,
+    "precio_dolares": 4
+  },
+  {
+    "id": 138,
+    "nombre": "Vino (Verdejo)",
+    "tipo": "Vino Blanco",
+    "pais_origen": "España",
+    "graduacion_alcohol": 13.0,
+    "ingrediente_principal": "Uva Verdejo",
+    "fecha_creacion_año": 1085,
+    "precio_dolares": 10
+  },
+  {
+    "id": 139,
+    "nombre": "Licor de Regaliz (Sambuca)",
+    "tipo": "Licor de Anís",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 42.0,
+    "ingrediente_principal": "Semilla de Anís Estrellado",
+    "fecha_creacion_año": 1851,
+    "precio_dolares": 25
+  },
+  {
+    "id": 140,
+    "nombre": "Cerveza Scotch Ale (Wee Heavy)",
+    "tipo": "Cerveza Ale Fuerte",
+    "pais_origen": "Escocia",
+    "graduacion_alcohol": 8.0,
+    "ingrediente_principal": "Malta de cebada",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 7
+  },
+  {
+    "id": 141,
+    "nombre": "Brandy (Brandy de Uva - Moët & Chandon)",
+    "tipo": "Brandy",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Uva",
+    "fecha_creacion_año": 1743,
+    "precio_dolares": 50
+  },
+  {
+    "id": 142,
+    "nombre": "Vino (Pinot Noir de Oregón)",
+    "tipo": "Vino Tinto",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 13.0,
+    "ingrediente_principal": "Uva Pinot Noir",
+    "fecha_creacion_año": 1965,
+    "precio_dolares": 40
+  },
+  {
+    "id": 143,
+    "nombre": "Licor de Higo Chumbo (Bajan Opuntia)",
+    "tipo": "Licor de Fruta",
+    "pais_origen": "México",
+    "graduacion_alcohol": 20.0,
+    "ingrediente_principal": "Higo Chumbo",
+    "fecha_creacion_año": 2005,
+    "precio_dolares": 25
+  },
+  {
+    "id": 144,
+    "nombre": "Cerveza Pale Ale (American)",
+    "tipo": "Cerveza Ale",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 5.5,
+    "ingrediente_principal": "Lúpulo Cascade",
+    "fecha_creacion_año": 1980,
+    "precio_dolares": 3
+  },
+  {
+    "id": 145,
+    "nombre": "Vodka con Sabor (Absolut Citron)",
+    "tipo": "Destilado (Aromatizado)",
+    "pais_origen": "Suecia",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Trigo y Limón",
+    "fecha_creacion_año": 1988,
+    "precio_dolares": 20
+  },
+  {
+    "id": 146,
+    "nombre": "Vino Fortificado (Muscat de Rivesaltes)",
+    "tipo": "Vino de postre",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 15.0,
+    "ingrediente_principal": "Uva Moscatel",
+    "fecha_creacion_año": 1299,
+    "precio_dolares": 28
+  },
+  {
+    "id": 147,
+    "nombre": "Cerveza New England IPA (NEIPA)",
+    "tipo": "Cerveza Ale (Hazy)",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 6.8,
+    "ingrediente_principal": "Lúpulo (Cítrico)",
+    "fecha_creacion_año": 2010,
+    "precio_dolares": 5
+  },
+  {
+    "id": 148,
+    "nombre": "Licor de Albaricoque (Apricot Brandy)",
+    "tipo": "Licor de Fruta",
+    "pais_origen": "Países Bajos",
+    "graduacion_alcohol": 30.0,
+    "ingrediente_principal": "Albaricoque",
+    "fecha_creacion_año": 1900,
+    "precio_dolares": 20
+  },
+  {
+    "id": 149,
+    "nombre": "Brandy (V.S.)",
+    "tipo": "Brandy",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Uva Ugni Blanc",
+    "fecha_creacion_año": 1865,
+    "precio_dolares": 30
+  },
+  {
+    "id": 150,
+    "nombre": "Cerveza Porter (Robusta)",
+    "tipo": "Cerveza Ale Oscura",
+    "pais_origen": "Inglaterra",
+    "graduacion_alcohol": 6.0,
+    "ingrediente_principal": "Malta chocolate",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 4
+  },
+  {
+    "id": 151,
+    "nombre": "Licor de Zarzamora (Chambord)",
+    "tipo": "Licor de Fruta",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 16.5,
+    "ingrediente_principal": "Frambuesa y Zarzamora",
+    "fecha_creacion_año": 1685,
+    "precio_dolares": 35
+  },
+  {
+    "id": 152,
+    "nombre": "Ron (Bacardi Superior)",
+    "tipo": "Destilado Blanco",
+    "pais_origen": "Cuba",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Melaza de caña de azúcar",
+    "fecha_creacion_año": 1862,
+    "precio_dolares": 15
+  },
+  {
+    "id": 153,
+    "nombre": "Cerveza Saison (Farmhouse Ale - Saborizado)",
+    "tipo": "Cerveza Ale",
+    "pais_origen": "Bélgica",
+    "graduacion_alcohol": 7.5,
+    "ingrediente_principal": "Trigo y Especias",
+    "fecha_creacion_año": 1900,
+    "precio_dolares": 5
+  },
+  {
+    "id": 154,
+    "nombre": "Vino Tinto (Pinotage)",
+    "tipo": "Vino Tinto",
+    "pais_origen": "Sudáfrica",
+    "graduacion_alcohol": 14.0,
+    "ingrediente_principal": "Uva Pinotage",
+    "fecha_creacion_año": 1925,
+    "precio_dolares": 18
+  },
+  {
+    "id": 155,
+    "nombre": "Licor de Jengibre (Canton Ginger)",
+    "tipo": "Licor",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 28.0,
+    "ingrediente_principal": "Jengibre",
+    "fecha_creacion_año": 2007,
+    "precio_dolares": 30
+  },
+  {
+    "id": 156,
+    "nombre": "Whisky (The Macallan 25 años Sherry Oak)",
+    "tipo": "Destilado (Single Malt)",
+    "pais_origen": "Escocia",
+    "graduacion_alcohol": 43.0,
+    "ingrediente_principal": "Cebada malteada",
+    "fecha_creacion_año": 1824,
+    "precio_dolares": 2800
+  },
+  {
+    "id": 157,
+    "nombre": "Cerveza Old Ale",
+    "tipo": "Cerveza Ale Fuerte",
+    "pais_origen": "Inglaterra",
+    "graduacion_alcohol": 7.0,
+    "ingrediente_principal": "Malta de cebada",
+    "fecha_creacion_año": 1600,
+    "precio_dolares": 6
+  },
+  {
+    "id": 158,
+    "nombre": "Agua (H2O Artesiana)",
+    "tipo": "No Alcohólica",
+    "pais_origen": "Noruega",
+    "graduacion_alcohol": 0.0,
+    "ingrediente_principal": "Minerales",
+    "fecha_creacion_año": 0,
+    "precio_dolares": 1
+  },
+  {
+    "id": 159,
+    "nombre": "Vino Blanco (Chenin Blanc)",
+    "tipo": "Vino Blanco",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 13.0,
+    "ingrediente_principal": "Uva Chenin Blanc",
+    "fecha_creacion_año": 843,
+    "precio_dolares": 15
+  },
+  {
+    "id": 160,
+    "nombre": "Zumo de Limón (Concentrado)",
+    "tipo": "No Alcohólica",
+    "pais_origen": "Global",
+    "graduacion_alcohol": 0.0,
+    "ingrediente_principal": "Limón",
+    "fecha_creacion_año": 1800,
+    "precio_dolares": 2
+  },
+  {
+    "id": 161,
+    "nombre": "Cerveza Cream Ale",
+    "tipo": "Cerveza Ale/Lager Híbrida",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 5.0,
+    "ingrediente_principal": "Maíz y Malta de cebada",
+    "fecha_creacion_año": 1800,
+    "precio_dolares": 3
+  },
+  {
+    "id": 162,
+    "nombre": "Whisky de Malta Pura (Pure Malt)",
+    "tipo": "Destilado (Blended Malt)",
+    "pais_origen": "Escocia",
+    "graduacion_alcohol": 43.0,
+    "ingrediente_principal": "Cebada malteada (Múltiples destilerías)",
+    "fecha_creacion_año": 1900,
+    "precio_dolares": 45
+  },
+  {
+    "id": 163,
+    "nombre": "Vino Fortificado (Jerez Amontillado)",
+    "tipo": "Vino Fortificado",
+    "pais_origen": "España",
+    "graduacion_alcohol": 17.0,
+    "ingrediente_principal": "Uva Palomino",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 35
+  },
+  {
+    "id": 164,
+    "nombre": "Licor de Pera (Poiré)",
+    "tipo": "Sidra de Pera",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 4.0,
+    "ingrediente_principal": "Pera",
+    "fecha_creacion_año": 1800,
+    "precio_dolares": 10
+  },
+  {
+    "id": 165,
+    "nombre": "Cerveza Doppelbock",
+    "tipo": "Cerveza Lager Fuerte",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 7.5,
+    "ingrediente_principal": "Malta Munich",
+    "fecha_creacion_año": 1629,
+    "precio_dolares": 5
+  },
+  {
+    "id": 166,
+    "nombre": "Brandy (Armagnac Millésime)",
+    "tipo": "Brandy (Vintage)",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Uva Baco Blanc",
+    "fecha_creacion_año": 1310,
+    "precio_dolares": 120
+  },
+  {
+    "id": 167,
+    "nombre": "Vino Tinto (Tempranillo Reserva)",
+    "tipo": "Vino Tinto",
+    "pais_origen": "España",
+    "graduacion_alcohol": 14.0,
+    "ingrediente_principal": "Uva Tempranillo",
+    "fecha_creacion_año": 100,
+    "precio_dolares": 15
+  },
+  {
+    "id": 168,
+    "nombre": "Licor de Naranja (Grand Marnier)",
+    "tipo": "Licor (Base Cognac)",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Naranja amarga y Cognac",
+    "fecha_creacion_año": 1880,
+    "precio_dolares": 45
+  },
+  {
+    "id": 169,
+    "nombre": "Cerveza California Common",
+    "tipo": "Cerveza Híbrida",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 4.9,
+    "ingrediente_principal": "Lúpulo Northern Brewer",
+    "fecha_creacion_año": 1896,
+    "precio_dolares": 3
+  },
+  {
+    "id": 170,
+    "nombre": "Ginebra (Navy Strength)",
+    "tipo": "Destilado (Alta Graduación)",
+    "pais_origen": "Inglaterra",
+    "graduacion_alcohol": 57.0,
+    "ingrediente_principal": "Baya de Enebro",
+    "fecha_creacion_año": 1816,
+    "precio_dolares": 55
+  },
+  {
+    "id": 171,
+    "nombre": "Vino Blanco (Riesling Spätlese)",
+    "tipo": "Vino Blanco (Semi-Seco)",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 9.0,
+    "ingrediente_principal": "Uva Riesling",
+    "fecha_creacion_año": 1787,
+    "precio_dolares": 30
+  },
+  {
+    "id": 172,
+    "nombre": "Licor de Jägermeister",
+    "tipo": "Licor de Hierbas",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 35.0,
+    "ingrediente_principal": "Cincuenta y seis hierbas, frutos y raíces",
+    "fecha_creacion_año": 1934,
+    "precio_dolares": 25
+  },
+  {
+    "id": 173,
+    "nombre": "Ron (El Dorado 15 Años)",
+    "tipo": "Destilado (Premium)",
+    "pais_origen": "Guyana",
+    "graduacion_alcohol": 43.0,
+    "ingrediente_principal": "Melaza de caña de azúcar",
+    "fecha_creacion_año": 1670,
+    "precio_dolares": 60
+  },
+  {
+    "id": 174,
+    "nombre": "Cerveza Barleywine (American)",
+    "tipo": "Cerveza Ale Muy Fuerte",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 12.0,
+    "ingrediente_principal": "Malta de cebada",
+    "fecha_creacion_año": 1970,
+    "precio_dolares": 10
+  },
+  {
+    "id": 175,
+    "nombre": "Licor de Café (Tia Maria)",
+    "tipo": "Licor",
+    "pais_origen": "Jamaica",
+    "graduacion_alcohol": 20.0,
+    "ingrediente_principal": "Grano de café y Ron",
+    "fecha_creacion_año": 1950,
+    "precio_dolares": 22
+  },
+  {
+    "id": 176,
+    "nombre": "Cerveza Berliner Weisse (Con sirope)",
+    "tipo": "Cerveza de Trigo (Saborizado)",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 3.0,
+    "ingrediente_principal": "Trigo y Jarabe de fruta",
+    "fecha_creacion_año": 1600,
+    "precio_dolares": 3
+  },
+  {
+    "id": 177,
+    "nombre": "Vermut (Martini Extra Dry)",
+    "tipo": "Vino Aromatizado",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 15.0,
+    "ingrediente_principal": "Vino Blanco y Hierbas",
+    "fecha_creacion_año": 1863,
+    "precio_dolares": 12
+  },
+  {
+    "id": 178,
+    "nombre": "Whisky de Trigo (Wheat Whiskey)",
+    "tipo": "Destilado",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Trigo",
+    "fecha_creacion_año": 1990,
+    "precio_dolares": 35
+  },
+  {
+    "id": 179,
+    "nombre": "Licor de Cereza (Cherry Heering)",
+    "tipo": "Licor de Fruta",
+    "pais_origen": "Dinamarca",
+    "graduacion_alcohol": 24.0,
+    "ingrediente_principal": "Cereza",
+    "fecha_creacion_año": 1818,
+    "precio_dolares": 30
+  },
+  {
+    "id": 180,
+    "nombre": "Vino Espumoso (Cava Brut Rosé)",
+    "tipo": "Vino Espumoso",
+    "pais_origen": "España",
+    "graduacion_alcohol": 11.5,
+    "ingrediente_principal": "Uva Trepat/Garnacha",
+    "fecha_creacion_año": 1872,
+    "precio_dolares": 15
+  },
+  {
+    "id": 181,
+    "nombre": "Cerveza Blonde Ale",
+    "tipo": "Cerveza Ale",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 4.5,
+    "ingrediente_principal": "Malta pálida",
+    "fecha_creacion_año": 1990,
+    "precio_dolares": 3
+  },
+  {
+    "id": 182,
+    "nombre": "Ron Oscuro (Dark Rum)",
+    "tipo": "Destilado",
+    "pais_origen": "Jamaica",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Melaza de caña de azúcar",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 25
+  },
+  {
+    "id": 183,
+    "nombre": "Brandy (Brandy de Manzana Americano)",
+    "tipo": "Brandy de fruta",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Manzana",
+    "fecha_creacion_año": 1698,
+    "precio_dolares": 35
+  },
+  {
+    "id": 184,
+    "nombre": "Vino Fortificado (Jerez Pedro Ximénez)",
+    "tipo": "Vino de postre",
+    "pais_origen": "España",
+    "graduacion_alcohol": 15.0,
+    "ingrediente_principal": "Uva Pedro Ximénez",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 45
+  },
+  {
+    "id": 185,
+    "nombre": "Licor de Naranja (Dry Curaçao)",
+    "tipo": "Licor de Fruta",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Cáscara de Naranja",
+    "fecha_creacion_año": 1890,
+    "precio_dolares": 35
+  },
+  {
+    "id": 186,
+    "nombre": "Cerveza Belgian Strong Golden Ale",
+    "tipo": "Cerveza Ale Fuerte",
+    "pais_origen": "Bélgica",
+    "graduacion_alcohol": 9.5,
+    "ingrediente_principal": "Malta de cebada",
+    "fecha_creacion_año": 1986,
+    "precio_dolares": 6
+  },
+  {
+    "id": 187,
+    "nombre": "Vino Tinto (Chianti Classico)",
+    "tipo": "Vino Tinto",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 13.0,
+    "ingrediente_principal": "Uva Sangiovese",
+    "fecha_creacion_año": 1716,
+    "precio_dolares": 20
+  },
+  {
+    "id": 188,
+    "nombre": "Ginebra (Sloe Gin)",
+    "tipo": "Licor de Fruta (Base Gin)",
+    "pais_origen": "Inglaterra",
+    "graduacion_alcohol": 28.0,
+    "ingrediente_principal": "Baya de Endrina",
+    "fecha_creacion_año": 1600,
+    "precio_dolares": 30
+  },
+  {
+    "id": 189,
+    "nombre": "Cerveza Vienna Lager",
+    "tipo": "Cerveza Lager",
+    "pais_origen": "Austria",
+    "graduacion_alcohol": 5.0,
+    "ingrediente_principal": "Malta Vienna",
+    "fecha_creacion_año": 1841,
+    "precio_dolares": 3
+  },
+  {
+    "id": 190,
+    "nombre": "Aguardiente de Caña (Cane Spirit)",
+    "tipo": "Destilado (Caña de Azúcar)",
+    "pais_origen": "Filipinas",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Caña de azúcar",
+    "fecha_creacion_año": 1890,
+    "precio_dolares": 25
+  },
+  {
+    "id": 191,
+    "nombre": "Vino (Riesling Trocken)",
+    "tipo": "Vino Blanco (Seco)",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 12.0,
+    "ingrediente_principal": "Uva Riesling",
+    "fecha_creacion_año": 1435,
+    "precio_dolares": 20
+  },
+  {
+    "id": 192,
+    "nombre": "Licor de Crema Irlandesa (Baileys)",
+    "tipo": "Licor Crema",
+    "pais_origen": "Irlanda",
+    "graduacion_alcohol": 17.0,
+    "ingrediente_principal": "Whisky Irlandés y Crema",
+    "fecha_creacion_año": 1974,
+    "precio_dolares": 25
+  },
+  {
+    "id": 193,
+    "nombre": "Cerveza Bitter (Best Bitter)",
+    "tipo": "Cerveza Ale",
+    "pais_origen": "Inglaterra",
+    "graduacion_alcohol": 4.5,
+    "ingrediente_principal": "Malta Pálida",
+    "fecha_creacion_año": 1800,
+    "precio_dolares": 3
+  },
+  {
+    "id": 194,
+    "nombre": "Tequila (Cristalino)",
+    "tipo": "Destilado (Filtrado)",
+    "pais_origen": "México",
+    "graduacion_alcohol": 35.0,
+    "ingrediente_principal": "Agave azul",
+    "fecha_creacion_año": 2011,
+    "precio_dolares": 55
+  },
+  {
+    "id": 195,
+    "nombre": "Vino (Pinot Gris)",
+    "tipo": "Vino Blanco",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 13.5,
+    "ingrediente_principal": "Uva Pinot Gris",
+    "fecha_creacion_año": 1300,
+    "precio_dolares": 22
+  },
+  {
+    "id": 196,
+    "nombre": "Licor de Avellana (Frangelico)",
+    "tipo": "Licor de Fruto Seco",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 20.0,
+    "ingrediente_principal": "Avellana",
+    "fecha_creacion_año": 1978,
+    "precio_dolares": 25
+  },
+  {
+    "id": 197,
+    "nombre": "Cerveza Hefeweizen Dunkel",
+    "tipo": "Cerveza de Trigo Oscura",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 5.3,
+    "ingrediente_principal": "Trigo y Malta tostada",
+    "fecha_creacion_año": 1800,
+    "precio_dolares": 4
+  },
+  {
+    "id": 198,
+    "nombre": "Brandy de Malta (Shōchū de Cebada)",
+    "tipo": "Destilado de Cebada",
+    "pais_origen": "Japón",
+    "graduacion_alcohol": 25.0,
+    "ingrediente_principal": "Cebada",
+    "fecha_creacion_año": 1500,
+    "precio_dolares": 15
+  },
+  {
+    "id": 199,
+    "nombre": "Ginebra (London Dry, Cítrica)",
+    "tipo": "Destilado",
+    "pais_origen": "Inglaterra",
+    "graduacion_alcohol": 41.0,
+    "ingrediente_principal": "Baya de Enebro y Cítricos",
+    "fecha_creacion_año": 1987,
+    "precio_dolares": 30
+  },
+  {
+    "id": 200,
+    "nombre": "Vino Fortificado (Oporto Ruby)",
+    "tipo": "Vino Fortificado",
+    "pais_origen": "Portugal",
+    "graduacion_alcohol": 20.0,
+    "ingrediente_principal": "Uva Touriga Nacional",
+    "fecha_creacion_año": 1678,
+    "precio_dolares": 20
+  },
+  {
+    "id": 201,
+    "nombre": "Licor de Angostura (Angostura Bitters)",
+    "tipo": "Amargo Concentrado",
+    "pais_origen": "Trinidad y Tobago",
+    "graduacion_alcohol": 44.7,
+    "ingrediente_principal": "Corteza de Angostura y Raíces",
+    "fecha_creacion_año": 1824,
+    "precio_dolares": 15
+  },
+  {
+    "id": 202,
+    "nombre": "Brandy de Damasco (Apricot Brandy)",
+    "tipo": "Destilado de fruta",
+    "pais_origen": "Hungría",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Albaricoque",
+    "fecha_creacion_año": 1800,
+    "precio_dolares": 30
+  },
+  {
+    "id": 203,
+    "nombre": "Cerveza Irish Red Ale",
+    "tipo": "Cerveza Ale",
+    "pais_origen": "Irlanda",
+    "graduacion_alcohol": 4.5,
+    "ingrediente_principal": "Malta Tostada (Color Rojo)",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 3
+  },
+  {
+    "id": 204,
+    "nombre": "Whisky de Tennessee",
+    "tipo": "Destilado",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Maíz y Filtro de Carbón de Arce",
+    "fecha_creacion_año": 1866,
+    "precio_dolares": 30
+  },
+  {
+    "id": 205,
+    "nombre": "Vino Blanco (Moscato d'Asti)",
+    "tipo": "Vino Espumoso Dulce",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 5.5,
+    "ingrediente_principal": "Uva Moscatel Blanco",
+    "fecha_creacion_año": 1870,
+    "precio_dolares": 15
+  },
+  {
+    "id": 206,
+    "nombre": "Licor de Zarzamora (Blackberry Brandy)",
+    "tipo": "Licor de Fruta",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 35.0,
+    "ingrediente_principal": "Zarzamora",
+    "fecha_creacion_año": 1800,
+    "precio_dolares": 20
+  },
+  {
+    "id": 207,
+    "nombre": "Cerveza Porter Ahumada (Smoked Porter)",
+    "tipo": "Cerveza Ale Oscura",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 6.5,
+    "ingrediente_principal": "Malta ahumada",
+    "fecha_creacion_año": 1988,
+    "precio_dolares": 5
+  },
+  {
+    "id": 208,
+    "nombre": "Mezcal (Espadín Joven)",
+    "tipo": "Destilado",
+    "pais_origen": "México",
+    "graduacion_alcohol": 42.0,
+    "ingrediente_principal": "Agave Espadín",
+    "fecha_creacion_año": 1530,
+    "precio_dolares": 40
+  },
+  {
+    "id": 209,
+    "nombre": "Vino Tinto (Tempranillo Joven)",
+    "tipo": "Vino Tinto",
+    "pais_origen": "España",
+    "graduacion_alcohol": 13.5,
+    "ingrediente_principal": "Uva Tempranillo",
+    "fecha_creacion_año": 100,
+    "precio_dolares": 8
+  },
+  {
+    "id": 210,
+    "nombre": "Aperitivo (Suze)",
+    "tipo": "Amargo",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 15.0,
+    "ingrediente_principal": "Raíz de Genciana",
+    "fecha_creacion_año": 1889,
+    "precio_dolares": 25
+  },
+  {
+    "id": 211,
+    "nombre": "Cerveza Quadrupel (Quad)",
+    "tipo": "Cerveza Ale Fuerte (Trapense)",
+    "pais_origen": "Bélgica",
+    "graduacion_alcohol": 10.5,
+    "ingrediente_principal": "Malta oscura y Azúcar",
+    "fecha_creacion_año": 1991,
+    "precio_dolares": 7
+  },
+  {
+    "id": 212,
+    "nombre": "Vino Blanco (Viognier)",
+    "tipo": "Vino Blanco",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 14.0,
+    "ingrediente_principal": "Uva Viognier",
+    "fecha_creacion_año": 100,
+    "precio_dolares": 18
+  },
+  {
+    "id": 213,
+    "nombre": "Ginebra (Gin Rosada)",
+    "tipo": "Destilado (Saborizado)",
+    "pais_origen": "Inglaterra",
+    "graduacion_alcohol": 37.5,
+    "ingrediente_principal": "Baya de Enebro y Frutos Rojos",
+    "fecha_creacion_año": 2010,
+    "precio_dolares": 28
+  },
+  {
+    "id": 214,
+    "nombre": "Licor de Menta (Menta Piperita)",
+    "tipo": "Licor de Hierbas",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 25.0,
+    "ingrediente_principal": "Menta Piperita",
+    "fecha_creacion_año": 1900,
+    "precio_dolares": 18
+  },
+  {
+    "id": 215,
+    "nombre": "Ron de Guyana (Demerara Rum)",
+    "tipo": "Destilado",
+    "pais_origen": "Guyana",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Melaza de caña de azúcar",
+    "fecha_creacion_año": 1600,
+    "precio_dolares": 30
+  },
+  {
+    "id": 216,
+    "nombre": "Cerveza Helles Lager",
+    "tipo": "Cerveza Lager",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 4.7,
+    "ingrediente_principal": "Malta de cebada",
+    "fecha_creacion_año": 1894,
+    "precio_dolares": 2
+  },
+  {
+    "id": 217,
+    "nombre": "Brandy (Brandy de Cereza)",
+    "tipo": "Destilado de fruta",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Cereza",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 35
+  },
+  {
+    "id": 218,
+    "nombre": "Vino Rosado (Garnacha)",
+    "tipo": "Vino Rosado",
+    "pais_origen": "España",
+    "graduacion_alcohol": 13.0,
+    "ingrediente_principal": "Uva Garnacha",
+    "fecha_creacion_año": 600,
+    "precio_dolares": 9
+  },
+  {
+    "id": 219,
+    "nombre": "Licor de Café (Licor de Café Español)",
+    "tipo": "Licor",
+    "pais_origen": "España",
+    "graduacion_alcohol": 30.0,
+    "ingrediente_principal": "Café Tostado",
+    "fecha_creacion_año": 1850,
+    "precio_dolares": 18
+  },
+  {
+    "id": 220,
+    "nombre": "Cerveza Dunkel Lager",
+    "tipo": "Cerveza Lager Oscura",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 5.0,
+    "ingrediente_principal": "Malta Tostada",
+    "fecha_creacion_año": 1500,
+    "precio_dolares": 3
+  },
+  {
+    "id": 221,
+    "nombre": "Vino Fortificado (Jerez Cream)",
+    "tipo": "Vino de postre",
+    "pais_origen": "España",
+    "graduacion_alcohol": 18.0,
+    "ingrediente_principal": "Uva Palomino y PX",
+    "fecha_creacion_año": 1900,
+    "precio_dolares": 15
+  },
+  {
+    "id": 222,
+    "nombre": "Licor de Hierbas (Unicum)",
+    "tipo": "Licor de Hierbas",
+    "pais_origen": "Hungría",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Cuarenta hierbas y raíces",
+    "fecha_creacion_año": 1790,
+    "precio_dolares": 35
+  },
+  {
+    "id": 223,
+    "nombre": "Ginebra (Gin Años 40)",
+    "tipo": "Destilado",
+    "pais_origen": "Inglaterra",
+    "graduacion_alcohol": 42.0,
+    "ingrediente_principal": "Baya de Enebro y especias",
+    "fecha_creacion_año": 1940,
+    "precio_dolares": 30
+  },
+  {
+    "id": 224,
+    "nombre": "Vino Tinto (Carménère)",
+    "tipo": "Vino Tinto",
+    "pais_origen": "Chile",
+    "graduacion_alcohol": 13.5,
+    "ingrediente_principal": "Uva Carménère",
+    "fecha_creacion_año": 1990,
+    "precio_dolares": 15
+  },
+  {
+    "id": 225,
+    "nombre": "Ron (Blanco Añejo)",
+    "tipo": "Destilado (Blanco Envejecido)",
+    "pais_origen": "Puerto Rico",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Melaza de caña de azúcar",
+    "fecha_creacion_año": 1800,
+    "precio_dolares": 20
+  },
+  {
+    "id": 226,
+    "nombre": "Licor de Melocotón (Peach Schnapps)",
+    "tipo": "Licor de Fruta",
+    "pais_origen": "Países Bajos",
+    "graduacion_alcohol": 20.0,
+    "ingrediente_principal": "Melocotón",
+    "fecha_creacion_año": 1984,
+    "precio_dolares": 15
+  },
+  {
+    "id": 227,
+    "nombre": "Whisky de Malta (Yoichi Single Malt)",
+    "tipo": "Destilado (Single Malt)",
+    "pais_origen": "Japón",
+    "graduacion_alcohol": 45.0,
+    "ingrediente_principal": "Cebada malteada (ligeramente ahumada)",
+    "fecha_creacion_año": 1934,
+    "precio_dolares": 100
+  },
+  {
+    "id": 228,
+    "nombre": "Cerveza India Pale Ale (West Coast IPA)",
+    "tipo": "Cerveza Ale",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 7.0,
+    "ingrediente_principal": "Lúpulo (Resinoso y Amargo)",
+    "fecha_creacion_año": 1990,
+    "precio_dolares": 4
+  },
+  {
+    "id": 229,
+    "nombre": "Vino Tinto (Merlot)",
+    "tipo": "Vino Tinto",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 13.5,
+    "ingrediente_principal": "Uva Merlot",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 12
+  },
+  {
+    "id": 230,
+    "nombre": "Licor Amargo (Fernet Branca)",
+    "tipo": "Amargo de Hierbas",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 39.0,
+    "ingrediente_principal": "Mirra, Azafrán y Raíces",
+    "fecha_creacion_año": 1845,
+    "precio_dolares": 30
+  },
+  {
+    "id": 231,
+    "nombre": "Brandy de Uva (Singani Añejo)",
+    "tipo": "Destilado de Uva",
+    "pais_origen": "Bolivia",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Uva Moscatel de Alejandría",
+    "fecha_creacion_año": 1530,
+    "precio_dolares": 35
+  },
+  {
+    "id": 232,
+    "nombre": "Cerveza Porter (Baltic)",
+    "tipo": "Cerveza Lager Oscura",
+    "pais_origen": "Rusia",
+    "graduacion_alcohol": 9.0,
+    "ingrediente_principal": "Malta Tostada",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 7
+  },
+  {
+    "id": 233,
+    "nombre": "Vino Fortificado (Oporto Vintage)",
+    "tipo": "Vino Fortificado",
+    "pais_origen": "Portugal",
+    "graduacion_alcohol": 20.0,
+    "ingrediente_principal": "Uva Touriga Nacional (Cosecha Única)",
+    "fecha_creacion_año": 1678,
+    "precio_dolares": 80
+  },
+  {
+    "id": 234,
+    "nombre": "Ginebra (Gin Floral)",
+    "tipo": "Destilado (Saborizado)",
+    "pais_origen": "Reino Unido",
+    "graduacion_alcohol": 42.0,
+    "ingrediente_principal": "Baya de Enebro y Botánicos Florales",
+    "fecha_creacion_año": 2010,
+    "precio_dolares": 40
+  },
+  {
+    "id": 235,
+    "nombre": "Aguardiente (Baijiu)",
+    "tipo": "Destilado de grano",
+    "pais_origen": "China",
+    "graduacion_alcohol": 53.0,
+    "ingrediente_principal": "Sorgo (Kao-Liang)",
+    "fecha_creacion_año": 1300,
+    "precio_dolares": 50
+  },
+  {
+    "id": 236,
+    "nombre": "Cerveza Dunkelweizen",
+    "tipo": "Cerveza de Trigo Oscura",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 5.5,
+    "ingrediente_principal": "Trigo y Malta Tostada",
+    "fecha_creacion_año": 1800,
+    "precio_dolares": 3
+  },
+  {
+    "id": 237,
+    "nombre": "Vino Blanco (Sémillon)",
+    "tipo": "Vino Blanco",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 13.0,
+    "ingrediente_principal": "Uva Sémillon",
+    "fecha_creacion_año": 100,
+    "precio_dolares": 15
+  },
+  {
+    "id": 238,
+    "nombre": "Licor de Naranja (Triple Sec)",
+    "tipo": "Licor de Fruta",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Cáscara de Naranja",
+    "fecha_creacion_año": 1834,
+    "precio_dolares": 20
+  },
+  {
+    "id": 239,
+    "nombre": "Whisky (Irish Single Malt)",
+    "tipo": "Destilado (Single Malt)",
+    "pais_origen": "Irlanda",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Cebada malteada",
+    "fecha_creacion_año": 1780,
+    "precio_dolares": 45
+  },
+  {
+    "id": 240,
+    "nombre": "Cerveza Gueuze",
+    "tipo": "Cerveza Fermentación Espontánea",
+    "pais_origen": "Bélgica",
+    "graduacion_alcohol": 6.0,
+    "ingrediente_principal": "Mezcla de Lambics añejadas",
+    "fecha_creacion_año": 1890,
+    "precio_dolares": 8
+  },
+  {
+    "id": 241,
+    "nombre": "Aperitivo (Cynar)",
+    "tipo": "Amargo de Alcachofa",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 16.5,
+    "ingrediente_principal": "Hojas de Alcachofa",
+    "fecha_creacion_año": 1952,
+    "precio_dolares": 20
+  },
+  {
+    "id": 242,
+    "nombre": "Ron Añejo (Havana Club 7)",
+    "tipo": "Destilado",
+    "pais_origen": "Cuba",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Melaza de caña de azúcar",
+    "fecha_creacion_año": 1969,
+    "precio_dolares": 30
+  },
+  {
+    "id": 243,
+    "nombre": "Vino Tinto (Syrah/Shiraz)",
+    "tipo": "Vino Tinto",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 14.0,
+    "ingrediente_principal": "Uva Syrah",
+    "fecha_creacion_año": 100,
+    "precio_dolares": 18
+  },
+  {
+    "id": 244,
+    "nombre": "Licor de Chocolate (Mozart Chocolate Liqueur)",
+    "tipo": "Licor Crema",
+    "pais_origen": "Austria",
+    "graduacion_alcohol": 17.0,
+    "ingrediente_principal": "Cacao",
+    "fecha_creacion_año": 1954,
+    "precio_dolares": 25
+  },
+  {
+    "id": 245,
+    "nombre": "Cerveza Cream Stout",
+    "tipo": "Cerveza Ale Oscura",
+    "pais_origen": "Inglaterra",
+    "graduacion_alcohol": 5.5,
+    "ingrediente_principal": "Lactosa",
+    "fecha_creacion_año": 1800,
+    "precio_dolares": 4
+  },
+  {
+    "id": 246,
+    "nombre": "Vodka (Ciroc)",
+    "tipo": "Destilado de Uva",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Uva Francesa",
+    "fecha_creacion_año": 2003,
+    "precio_dolares": 35
+  },
+  {
+    "id": 247,
+    "nombre": "Vino Blanco (Verdejo Rueda)",
+    "tipo": "Vino Blanco",
+    "pais_origen": "España",
+    "graduacion_alcohol": 13.0,
+    "ingrediente_principal": "Uva Verdejo",
+    "fecha_creacion_año": 1085,
+    "precio_dolares": 10
+  },
+  {
+    "id": 248,
+    "nombre": "Brandy (Brandy Solera)",
+    "tipo": "Brandy",
+    "pais_origen": "España",
+    "graduacion_alcohol": 36.0,
+    "ingrediente_principal": "Uva Airén",
+    "fecha_creacion_año": 1772,
+    "precio_dolares": 20
+  },
+  {
+    "id": 249,
+    "nombre": "Cerveza Dopplebock (Eisbock)",
+    "tipo": "Cerveza Lager Fuerte (Congelada)",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 12.0,
+    "ingrediente_principal": "Malta Munich (Concentrada)",
+    "fecha_creacion_año": 1890,
+    "precio_dolares": 10
+  },
+  {
+    "id": 250,
+    "nombre": "Ginebra (Gin de Alta Montaña)",
+    "tipo": "Destilado",
+    "pais_origen": "Suiza",
+    "graduacion_alcohol": 44.0,
+    "ingrediente_principal": "Baya de Enebro y Botánicos Alpinos",
+    "fecha_creacion_año": 2015,
+    "precio_dolares": 50
+  },
+  {
+    "id": 251,
+    "nombre": "Licor de Naranja (Licor 43)",
+    "tipo": "Licor de Hierbas y Cítricos",
+    "pais_origen": "España",
+    "graduacion_alcohol": 31.0,
+    "ingrediente_principal": "Cuarenta y tres botánicos",
+    "fecha_creacion_año": 1946,
+    "precio_dolares": 25
+  },
+  {
+    "id": 252,
+    "nombre": "Whisky de Malta (Talisker 10 años)",
+    "tipo": "Destilado (Single Malt Ahumado)",
+    "pais_origen": "Escocia",
+    "graduacion_alcohol": 45.8,
+    "ingrediente_principal": "Cebada malteada",
+    "fecha_creacion_año": 1830,
+    "precio_dolares": 60
+  },
+  {
+    "id": 253,
+    "nombre": "Cerveza Saison (Dry-Hopped)",
+    "tipo": "Cerveza Ale",
+    "pais_origen": "Bélgica",
+    "graduacion_alcohol": 6.0,
+    "ingrediente_principal": "Lúpulo (Añadido en frío)",
+    "fecha_creacion_año": 2000,
+    "precio_dolares": 5
+  },
+  {
+    "id": 254,
+    "nombre": "Vino Tinto (Pinot Noir de Borgoña)",
+    "tipo": "Vino Tinto",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 13.0,
+    "ingrediente_principal": "Uva Pinot Noir",
+    "fecha_creacion_año": 100,
+    "precio_dolares": 45
+  },
+  {
+    "id": 255,
+    "nombre": "Licor de Melocotón (Pimm's No. 1)",
+    "tipo": "Aperitivo de Gin",
+    "pais_origen": "Inglaterra",
+    "graduacion_alcohol": 25.0,
+    "ingrediente_principal": "Ginebra y especias",
+    "fecha_creacion_año": 1840,
+    "precio_dolares": 25
+  },
+  {
+    "id": 256,
+    "nombre": "Aguardiente de Arroz (Raksi)",
+    "tipo": "Destilado de Arroz",
+    "pais_origen": "Nepal",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Arroz o Mijo",
+    "fecha_creacion_año": 1500,
+    "precio_dolares": 15
+  },
+  {
+    "id": 257,
+    "nombre": "Cerveza Berliner Weisse (Sin Saborizar)",
+    "tipo": "Cerveza de Trigo (Ácida)",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 3.5,
+    "ingrediente_principal": "Trigo y levadura láctica",
+    "fecha_creacion_año": 1600,
+    "precio_dolares": 3
+  },
+  {
+    "id": 258,
+    "nombre": "Ron Blanco (Havana Club Añejo 3 Años)",
+    "tipo": "Destilado (Blanco Envejecido)",
+    "pais_origen": "Cuba",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Melaza de caña de azúcar",
+    "fecha_creacion_año": 1935,
+    "precio_dolares": 18
+  },
+  {
+    "id": 259,
+    "nombre": "Vino Blanco (Riesling Auslese)",
+    "tipo": "Vino Blanco (Dulce de Cosecha Tardía)",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 7.0,
+    "ingrediente_principal": "Uva Riesling (Selección)",
+    "fecha_creacion_año": 1787,
+    "precio_dolares": 40
+  },
+  {
+    "id": 260,
+    "nombre": "Brandy (Brandy de Malta - Nikka From The Barrel)",
+    "tipo": "Destilado (Blended Whisky)",
+    "pais_origen": "Japón",
+    "graduacion_alcohol": 51.4,
+    "ingrediente_principal": "Cebada malteada y Cereal",
+    "fecha_creacion_año": 1985,
+    "precio_dolares": 70
+  },
+  {
+    "id": 261,
+    "nombre": "Cerveza Maibock",
+    "tipo": "Cerveza Lager Fuerte",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 6.8,
+    "ingrediente_principal": "Malta pálida",
+    "fecha_creacion_año": 1600,
+    "precio_dolares": 4
+  },
+  {
+    "id": 262,
+    "nombre": "Tequila (Reposado Premium)",
+    "tipo": "Destilado",
+    "pais_origen": "México",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Agave azul",
+    "fecha_creacion_año": 1758,
+    "precio_dolares": 45
+  },
+  {
+    "id": 263,
+    "nombre": "Vino Tinto (Pinot Noir de California)",
+    "tipo": "Vino Tinto",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 14.0,
+    "ingrediente_principal": "Uva Pinot Noir",
+    "fecha_creacion_año": 1970,
+    "precio_dolares": 25
+  },
+  {
+    "id": 264,
+    "nombre": "Licor de Almendras (Amaretto Disaronno)",
+    "tipo": "Licor de Fruto Seco",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 28.0,
+    "ingrediente_principal": "Almendra y huesos de albaricoque",
+    "fecha_creacion_año": 1525,
+    "precio_dolares": 28
+  },
+  {
+    "id": 265,
+    "nombre": "Cerveza Wheatwine",
+    "tipo": "Cerveza de Trigo Fuerte",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 10.0,
+    "ingrediente_principal": "Trigo (>50%)",
+    "fecha_creacion_año": 1986,
+    "precio_dolares": 8
+  },
+  {
+    "id": 266,
+    "nombre": "Ginebra (Gin Vintense)",
+    "tipo": "Destilado",
+    "pais_origen": "España",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Baya de Enebro y Tomillo",
+    "fecha_creacion_año": 2010,
+    "precio_dolares": 35
+  },
+  {
+    "id": 267,
+    "nombre": "Vino Blanco (Gewürztraminer)",
+    "tipo": "Vino Blanco Aromático",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 13.5,
+    "ingrediente_principal": "Uva Gewürztraminer",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 20
+  },
+  {
+    "id": 268,
+    "nombre": "Licor de Coco (Ron con Coco)",
+    "tipo": "Licor de Ron",
+    "pais_origen": "Caribe",
+    "graduacion_alcohol": 21.0,
+    "ingrediente_principal": "Ron y Coco",
+    "fecha_creacion_año": 1980,
+    "precio_dolares": 15
+  },
+  {
+    "id": 269,
+    "nombre": "Cerveza Hazy Pale Ale",
+    "tipo": "Cerveza Ale",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 5.8,
+    "ingrediente_principal": "Lúpulo (Cítrico)",
+    "fecha_creacion_año": 2015,
+    "precio_dolares": 4
+  },
+  {
+    "id": 270,
+    "nombre": "Brandy de Ciruela (Țuică)",
+    "tipo": "Destilado de fruta",
+    "pais_origen": "Rumania",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Ciruela",
+    "fecha_creacion_año": 1500,
+    "precio_dolares": 20
+  },
+  {
+    "id": 271,
+    "nombre": "Vino Espumoso (Franciacorta)",
+    "tipo": "Vino Espumoso (Método Tradicional)",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 12.5,
+    "ingrediente_principal": "Uva Chardonnay, Pinot Noir",
+    "fecha_creacion_año": 1961,
+    "precio_dolares": 35
+  },
+  {
+    "id": 272,
+    "nombre": "Licor de Flor de Saúco (St-Germain)",
+    "tipo": "Licor de Flores",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 20.0,
+    "ingrediente_principal": "Flor de Saúco",
+    "fecha_creacion_año": 2007,
+    "precio_dolares": 35
+  },
+  {
+    "id": 273,
+    "nombre": "Cerveza Grodziskie (Polish Wheat)",
+    "tipo": "Cerveza de Trigo Ahumada",
+    "pais_origen": "Polonia",
+    "graduacion_alcohol": 3.0,
+    "ingrediente_principal": "Trigo ahumado con Roble",
+    "fecha_creacion_año": 1600,
+    "precio_dolares": 4
+  },
+  {
+    "id": 274,
+    "nombre": "Ron Añejo (Barbados Rum)",
+    "tipo": "Destilado",
+    "pais_origen": "Barbados",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Melaza de caña de azúcar",
+    "fecha_creacion_año": 1637,
+    "precio_dolares": 30
+  },
+  {
+    "id": 275,
+    "nombre": "Vino Tinto (Nebbiolo)",
+    "tipo": "Vino Tinto",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 14.0,
+    "ingrediente_principal": "Uva Nebbiolo",
+    "fecha_creacion_año": 1300,
+    "precio_dolares": 30
+  },
+  {
+    "id": 276,
+    "nombre": "Licor de Chile (Ancho Reyes Rojo)",
+    "tipo": "Licor Picante",
+    "pais_origen": "México",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Chile Ancho",
+    "fecha_creacion_año": 2013,
+    "precio_dolares": 35
+  },
+  {
+    "id": 277,
+    "nombre": "Whisky de Centeno (High Rye Bourbon)",
+    "tipo": "Destilado (Bourbon)",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 45.0,
+    "ingrediente_principal": "Maíz y Centeno",
+    "fecha_creacion_año": 1960,
+    "precio_dolares": 30
+  },
+  {
+    "id": 278,
+    "nombre": "Cerveza Belgian Strong Dark Ale",
+    "tipo": "Cerveza Ale Fuerte",
+    "pais_origen": "Bélgica",
+    "graduacion_alcohol": 10.0,
+    "ingrediente_principal": "Malta caramelo y especias",
+    "fecha_creacion_año": 1900,
+    "precio_dolares": 7
+  },
+  {
+    "id": 279,
+    "nombre": "Vino Tinto (Chianti Riserva)",
+    "tipo": "Vino Tinto",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 13.5,
+    "ingrediente_principal": "Uva Sangiovese",
+    "fecha_creacion_año": 1716,
+    "precio_dolares": 30
+  },
+  {
+    "id": 280,
+    "nombre": "Ginebra (Gin Seca Francesa)",
+    "tipo": "Destilado",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 44.0,
+    "ingrediente_principal": "Baya de Enebro y botánicos de Provenza",
+    "fecha_creacion_año": 2000,
+    "precio_dolares": 40
+  },
+  {
+    "id": 281,
+    "nombre": "Aguardiente (Clairin)",
+    "tipo": "Destilado de Caña",
+    "pais_origen": "Haití",
+    "graduacion_alcohol": 50.0,
+    "ingrediente_principal": "Jugo de Caña de Azúcar Silvestre",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 45
+  },
+  {
+    "id": 282,
+    "nombre": "Cerveza Munich Dunkel",
+    "tipo": "Cerveza Lager Oscura",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 5.2,
+    "ingrediente_principal": "Malta Munich y Malta caramelo",
+    "fecha_creacion_año": 1600,
+    "precio_dolares": 3
+  },
+  {
+    "id": 283,
+    "nombre": "Vino Fortificado (Jerez Palo Cortado)",
+    "tipo": "Vino Fortificado",
+    "pais_origen": "España",
+    "graduacion_alcohol": 19.0,
+    "ingrediente_principal": "Uva Palomino",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 50
+  },
+  {
+    "id": 284,
+    "nombre": "Licor de Amargo (Underberg)",
+    "tipo": "Amargo Concentrado",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 44.0,
+    "ingrediente_principal": "Hierbas aromáticas",
+    "fecha_creacion_año": 1846,
+    "precio_dolares": 5
+  },
+  {
+    "id": 285,
+    "nombre": "Vino Blanco (Assyrtiko)",
+    "tipo": "Vino Blanco Seco",
+    "pais_origen": "Grecia",
+    "graduacion_alcohol": 13.5,
+    "ingrediente_principal": "Uva Assyrtiko",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 25
+  },
+  {
+    "id": 286,
+    "nombre": "Cerveza Weizenbock Oscura (Dunkle Weizenbock)",
+    "tipo": "Cerveza de Trigo Fuerte",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 7.8,
+    "ingrediente_principal": "Malta de trigo oscura",
+    "fecha_creacion_año": 1907,
+    "precio_dolares": 5
+  },
+  {
+    "id": 287,
+    "nombre": "Whisky de Malta (Taiwan Single Malt)",
+    "tipo": "Destilado (Single Malt)",
+    "pais_origen": "Taiwán",
+    "graduacion_alcohol": 43.0,
+    "ingrediente_principal": "Cebada malteada",
+    "fecha_creacion_año": 2005,
+    "precio_dolares": 75
+  },
+  {
+    "id": 288,
+    "nombre": "Ron (Ron Añejo de Filipinas)",
+    "tipo": "Destilado",
+    "pais_origen": "Filipinas",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Caña de azúcar",
+    "fecha_creacion_año": 1890,
+    "precio_dolares": 30
+  },
+  {
+    "id": 289,
+    "nombre": "Vino Tinto (Primitivo/Zinfandel Italiano)",
+    "tipo": "Vino Tinto",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 14.5,
+    "ingrediente_principal": "Uva Primitivo",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 15
+  },
+  {
+    "id": 290,
+    "nombre": "Licor de Mora (Licor de Mûre)",
+    "tipo": "Licor de Fruta",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 20.0,
+    "ingrediente_principal": "Mora (Fruto)",
+    "fecha_creacion_año": 1900,
+    "precio_dolares": 22
+  },
+  {
+    "id": 291,
+    "nombre": "Cerveza Flanders Oud Bruin",
+    "tipo": "Cerveza Ale (Ácida)",
+    "pais_origen": "Bélgica",
+    "graduacion_alcohol": 6.0,
+    "ingrediente_principal": "Malta Tostada (Envejecida)",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 8
+  },
+  {
+    "id": 292,
+    "nombre": "Vodka (Tito's Handmade Vodka)",
+    "tipo": "Destilado de Maíz",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Maíz",
+    "fecha_creacion_año": 1997,
+    "precio_dolares": 20
+  },
+  {
+    "id": 293,
+    "nombre": "Vino Rosado (Bandol)",
+    "tipo": "Vino Rosado",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 13.5,
+    "ingrediente_principal": "Uva Mourvèdre",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 25
+  },
+  {
+    "id": 294,
+    "nombre": "Licor de Cereza (Heering Kirsch)",
+    "tipo": "Destilado de fruta",
+    "pais_origen": "Dinamarca",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Cereza",
+    "fecha_creacion_año": 1818,
+    "precio_dolares": 40
+  },
+  {
+    "id": 295,
+    "nombre": "Cerveza Saison (Con Lúpulo Experimental)",
+    "tipo": "Cerveza Ale",
+    "pais_origen": "Bélgica",
+    "graduacion_alcohol": 6.5,
+    "ingrediente_principal": "Lúpulo Novedoso",
+    "fecha_creacion_año": 2010,
+    "precio_dolares": 5
+  },
+  {
+    "id": 296,
+    "nombre": "Whisky (Japanese Blended Harmony)",
+    "tipo": "Destilado (Blended Premium)",
+    "pais_origen": "Japón",
+    "graduacion_alcohol": 43.0,
+    "ingrediente_principal": "Cebada malteada y Granos",
+    "fecha_creacion_año": 2015,
+    "precio_dolares": 80
+  },
+  {
+    "id": 297,
+    "nombre": "Vino Tinto (Tempranillo Gran Reserva)",
+    "tipo": "Vino Tinto",
+    "pais_origen": "España",
+    "graduacion_alcohol": 14.0,
+    "ingrediente_principal": "Uva Tempranillo",
+    "fecha_creacion_año": 100,
+    "precio_dolares": 40
+  },
+  {
+    "id": 298,
+    "nombre": "Licor de Naranja (Naranja Curaçao)",
+    "tipo": "Licor de Fruta",
+    "pais_origen": "Curazao",
+    "graduacion_alcohol": 35.0,
+    "ingrediente_principal": "Cáscara de Naranja Laraha",
+    "fecha_creacion_año": 1896,
+    "precio_dolares": 25
+  },
+  {
+    "id": 299,
+    "nombre": "Cerveza Imperial Stout (Con Vainilla)",
+    "tipo": "Cerveza Ale Fuerte",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 11.0,
+    "ingrediente_principal": "Vainilla y Malta Tostada",
+    "fecha_creacion_año": 2000,
+    "precio_dolares": 12
+  },
+  {
+    "id": 300,
+    "nombre": "Ginebra (Gin Cítrica con Pomelo)",
+    "tipo": "Destilado",
+    "pais_origen": "España",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Baya de Enebro y Pomelo Rosado",
+    "fecha_creacion_año": 2014,
+    "precio_dolares": 35
+  },
+  {
+    "id": 301,
+    "nombre": "Licor de Cacao (Créme de Cacao Oscuro)",
+    "tipo": "Licor de Chocolate",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 24.0,
+    "ingrediente_principal": "Cacao Tostado",
+    "fecha_creacion_año": 1668,
+    "precio_dolares": 20
+  },
+  {
+    "id": 302,
+    "nombre": "Pisco (Acholado)",
+    "tipo": "Destilado de Uva",
+    "pais_origen": "Perú",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Mezcla de Uvas (Italia, Quebranta, etc.)",
+    "fecha_creacion_año": 1600,
+    "precio_dolares": 30
+  },
+  {
+    "id": 303,
+    "nombre": "Cerveza Pale Lager (American)",
+    "tipo": "Cerveza Lager",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 4.5,
+    "ingrediente_principal": "Maíz y Malta",
+    "fecha_creacion_año": 1840,
+    "precio_dolares": 1
+  },
+  {
+    "id": 304,
+    "nombre": "Vino Blanco (Sauvignon Blanc de Loira)",
+    "tipo": "Vino Blanco",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 12.5,
+    "ingrediente_principal": "Uva Sauvignon Blanc",
+    "fecha_creacion_año": 1500,
+    "precio_dolares": 20
+  },
+  {
+    "id": 305,
+    "nombre": "Aperitivo (Vermut Blanco Seco)",
+    "tipo": "Vino Aromatizado",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 15.0,
+    "ingrediente_principal": "Vino Blanco y Hierbas (Seco)",
+    "fecha_creacion_año": 1800,
+    "precio_dolares": 12
+  },
+  {
+    "id": 306,
+    "nombre": "Whisky (Scotch Grain Whisky)",
+    "tipo": "Destilado (Cereal)",
+    "pais_origen": "Escocia",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Trigo o Maíz",
+    "fecha_creacion_año": 1830,
+    "precio_dolares": 25
+  },
+  {
+    "id": 307,
+    "nombre": "Cerveza India Pale Lager (IPL) Frutal",
+    "tipo": "Cerveza Híbrida",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 6.0,
+    "ingrediente_principal": "Lúpulo (Sabor a fruta)",
+    "fecha_creacion_año": 2010,
+    "precio_dolares": 4
+  },
+  {
+    "id": 308,
+    "nombre": "Ron (Ron Agrícola Añejo)",
+    "tipo": "Destilado",
+    "pais_origen": "Martinica (Francia)",
+    "graduacion_alcohol": 45.0,
+    "ingrediente_principal": "Jugo de caña de azúcar",
+    "fecha_creacion_año": 1800,
+    "precio_dolares": 50
+  },
+  {
+    "id": 309,
+    "nombre": "Vino Tinto (Tannat)",
+    "tipo": "Vino Tinto",
+    "pais_origen": "Uruguay",
+    "graduacion_alcohol": 14.0,
+    "ingrediente_principal": "Uva Tannat",
+    "fecha_creacion_año": 1870,
+    "precio_dolares": 18
+  },
+  {
+    "id": 310,
+    "nombre": "Licor de Albaricoque (Amargo)",
+    "tipo": "Amargo de Fruta",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 28.0,
+    "ingrediente_principal": "Huesos de Albaricoque",
+    "fecha_creacion_año": 1900,
+    "precio_dolares": 25
+  },
+  {
+    "id": 311,
+    "nombre": "Cerveza Rye IPA",
+    "tipo": "Cerveza Ale",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 6.5,
+    "ingrediente_principal": "Centeno y Lúpulo",
+    "fecha_creacion_año": 2000,
+    "precio_dolares": 5
+  },
+  {
+    "id": 312,
+    "nombre": "Brandy (Brandy de Cereza - Kirschwasser Añejo)",
+    "tipo": "Destilado de fruta",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 45.0,
+    "ingrediente_principal": "Cereza (Envejecida)",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 55
+  },
+  {
+    "id": 313,
+    "nombre": "Vino Rosado (Provenza)",
+    "tipo": "Vino Rosado",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 12.5,
+    "ingrediente_principal": "Uva Garnacha y Cinsault",
+    "fecha_creacion_año": 600,
+    "precio_dolares": 15
+  },
+  {
+    "id": 314,
+    "nombre": "Ginebra (Gin Old Tom Añeja)",
+    "tipo": "Destilado (Envejecido)",
+    "pais_origen": "Inglaterra",
+    "graduacion_alcohol": 43.0,
+    "ingrediente_principal": "Baya de Enebro y Roble",
+    "fecha_creacion_año": 1800,
+    "precio_dolares": 45
+  },
+  {
+    "id": 315,
+    "nombre": "Licor de Melón (Melon Midori - Estilo Antiguo)",
+    "tipo": "Licor",
+    "pais_origen": "Japón",
+    "graduacion_alcohol": 23.0,
+    "ingrediente_principal": "Melón Yubari",
+    "fecha_creacion_año": 1978,
+    "precio_dolares": 30
+  },
+  {
+    "id": 316,
+    "nombre": "Cerveza Strong Scotch Ale (Ahumada)",
+    "tipo": "Cerveza Ale Fuerte",
+    "pais_origen": "Escocia",
+    "graduacion_alcohol": 9.5,
+    "ingrediente_principal": "Malta de cebada ahumada",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 8
+  },
+  {
+    "id": 317,
+    "nombre": "Vino Blanco (Chablis)",
+    "tipo": "Vino Blanco Seco",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 12.0,
+    "ingrediente_principal": "Uva Chardonnay",
+    "fecha_creacion_año": 1100,
+    "precio_dolares": 25
+  },
+  {
+    "id": 318,
+    "nombre": "Licor de Miel (Bärenjäger)",
+    "tipo": "Licor Dulce",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 35.0,
+    "ingrediente_principal": "Miel",
+    "fecha_creacion_año": 1500,
+    "precio_dolares": 28
+  },
+  {
+    "id": 319,
+    "nombre": "Whisky de Malta (Caol Ila 12 años)",
+    "tipo": "Destilado (Single Malt Islay)",
+    "pais_origen": "Escocia",
+    "graduacion_alcohol": 43.0,
+    "ingrediente_principal": "Cebada malteada (Turba ligera)",
+    "fecha_creacion_año": 1846,
+    "precio_dolares": 70
+  },
+  {
+    "id": 320,
+    "nombre": "Cerveza Saison (Agria/Sour)",
+    "tipo": "Cerveza Ale",
+    "pais_origen": "Bélgica",
+    "graduacion_alcohol": 6.5,
+    "ingrediente_principal": "Cultivo de levadura mixto",
+    "fecha_creacion_año": 2010,
+    "precio_dolares": 7
+  },
+  {
+    "id": 321,
+    "nombre": "Vino Tinto (Dolcetto)",
+    "tipo": "Vino Tinto",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 12.5,
+    "ingrediente_principal": "Uva Dolcetto",
+    "fecha_creacion_año": 1500,
+    "precio_dolares": 15
+  },
+  {
+    "id": 322,
+    "nombre": "Aguardiente (Tuzemák)",
+    "tipo": "Destilado de Remolacha",
+    "pais_origen": "República Checa",
+    "graduacion_alcohol": 38.0,
+    "ingrediente_principal": "Melaza de Remolacha",
+    "fecha_creacion_año": 1800,
+    "precio_dolares": 20
+  },
+  {
+    "id": 323,
+    "nombre": "Licor de Grosella Negra (Créme de Cassis - Dijon)",
+    "tipo": "Licor de Fruta",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 18.0,
+    "ingrediente_principal": "Grosella Negra",
+    "fecha_creacion_año": 1841,
+    "precio_dolares": 25
+  },
+  {
+    "id": 324,
+    "nombre": "Cerveza Pilsner (Checa Oscura)",
+    "tipo": "Cerveza Lager Oscura",
+    "pais_origen": "República Checa",
+    "graduacion_alcohol": 4.4,
+    "ingrediente_principal": "Malta de Múnich",
+    "fecha_creacion_año": 1842,
+    "precio_dolares": 3
+  },
+  {
+    "id": 325,
+    "nombre": "Ron (Ron con Especias Picantes)",
+    "tipo": "Destilado (Aromatizado)",
+    "pais_origen": "Caribe",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Ron y Chile",
+    "fecha_creacion_año": 2015,
+    "precio_dolares": 25
+  },
+  {
+    "id": 326,
+    "nombre": "Vino de Postre (Jerez Moscatel)",
+    "tipo": "Vino Fortificado",
+    "pais_origen": "España",
+    "graduacion_alcohol": 15.0,
+    "ingrediente_principal": "Uva Moscatel",
+    "fecha_creacion_año": 1600,
+    "precio_dolares": 25
+  },
+  {
+    "id": 327,
+    "nombre": "Licor de Naranja (Mandarine Napoléon)",
+    "tipo": "Licor de Fruta (Base Brandy)",
+    "pais_origen": "Bélgica",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Brandy y Mandarinas",
+    "fecha_creacion_año": 1892,
+    "precio_dolares": 35
+  },
+  {
+    "id": 328,
+    "nombre": "Cerveza Black IPA (Cascadian Dark Ale)",
+    "tipo": "Cerveza Ale",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 7.0,
+    "ingrediente_principal": "Malta Tostada y Lúpulo Amargo",
+    "fecha_creacion_año": 2000,
+    "precio_dolares": 5
+  },
+  {
+    "id": 329,
+    "nombre": "Vodka (De Centeno)",
+    "tipo": "Destilado",
+    "pais_origen": "Polonia",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Centeno",
+    "fecha_creacion_año": 1500,
+    "precio_dolares": 20
+  },
+  {
+    "id": 330,
+    "nombre": "Vino Tinto (Beaujolais Nouveau)",
+    "tipo": "Vino Tinto Joven",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 12.0,
+    "ingrediente_principal": "Uva Gamay (Maceración Carbónica)",
+    "fecha_creacion_año": 1951,
+    "precio_dolares": 15
+  },
+  {
+    "id": 331,
+    "nombre": "Licor de Huevo y Ron (Rompope)",
+    "tipo": "Licor Crema",
+    "pais_origen": "México",
+    "graduacion_alcohol": 12.0,
+    "ingrediente_principal": "Yema de Huevo y Ron",
+    "fecha_creacion_año": 1600,
+    "precio_dolares": 18
+  },
+  {
+    "id": 332,
+    "nombre": "Ron (Clement Rhum Agricole Blanc)",
+    "tipo": "Destilado Blanco (Caña)",
+    "pais_origen": "Martinica (Francia)",
+    "graduacion_alcohol": 50.0,
+    "ingrediente_principal": "Jugo de caña de azúcar",
+    "fecha_creacion_año": 1887,
+    "precio_dolares": 35
+  },
+  {
+    "id": 333,
+    "nombre": "Cerveza Saison (Farmhouse Ale con Trigo)",
+    "tipo": "Cerveza Ale",
+    "pais_origen": "Bélgica",
+    "graduacion_alcohol": 7.0,
+    "ingrediente_principal": "Trigo y Lúpulo",
+    "fecha_creacion_año": 1900,
+    "precio_dolares": 5
+  },
+  {
+    "id": 334,
+    "nombre": "Brandy (Brandy de Malta - Vatted Malt)",
+    "tipo": "Destilado (Blended Malt)",
+    "pais_origen": "Escocia",
+    "graduacion_alcohol": 46.0,
+    "ingrediente_principal": "Malta de cebada de varias destilerías",
+    "fecha_creacion_año": 1890,
+    "precio_dolares": 55
+  },
+  {
+    "id": 335,
+    "nombre": "Vino Blanco (Muscadet Sèvre et Maine)",
+    "tipo": "Vino Blanco Seco",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 12.0,
+    "ingrediente_principal": "Uva Melon de Bourgogne",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 15
+  },
+  {
+    "id": 336,
+    "nombre": "Licor de Crema (Sheridan's)",
+    "tipo": "Licor Crema",
+    "pais_origen": "Irlanda",
+    "graduacion_alcohol": 15.5,
+    "ingrediente_principal": "Whisky, Café y Crema",
+    "fecha_creacion_año": 1994,
+    "precio_dolares": 28
+  },
+  {
+    "id": 337,
+    "nombre": "Cerveza Rauchbier (Ahumada Clara)",
+    "tipo": "Cerveza Lager Ahumada",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 4.8,
+    "ingrediente_principal": "Malta pálida ahumada",
+    "fecha_creacion_año": 1600,
+    "precio_dolares": 4
+  },
+  {
+    "id": 338,
+    "nombre": "Tequila (Añejo Premium)",
+    "tipo": "Destilado",
+    "pais_origen": "México",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Agave azul",
+    "fecha_creacion_año": 1758,
+    "precio_dolares": 65
+  },
+  {
+    "id": 339,
+    "nombre": "Vino Espumoso (Prosecco Rosé)",
+    "tipo": "Vino Espumoso Rosado",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 11.5,
+    "ingrediente_principal": "Uva Glera y Pinot Noir",
+    "fecha_creacion_año": 2020,
+    "precio_dolares": 18
+  },
+  {
+    "id": 340,
+    "nombre": "Licor de Cereza (Licor de Cereza Marasca)",
+    "tipo": "Licor de Fruta",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 30.0,
+    "ingrediente_principal": "Cereza Marasca",
+    "fecha_creacion_año": 1759,
+    "precio_dolares": 25
+  },
+  {
+    "id": 341,
+    "nombre": "Cerveza English Pale Ale (EPA)",
+    "tipo": "Cerveza Ale",
+    "pais_origen": "Inglaterra",
+    "graduacion_alcohol": 5.0,
+    "ingrediente_principal": "Malta de cebada y Lúpulo Fuggles",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 3
+  },
+  {
+    "id": 342,
+    "nombre": "Ginebra (Gin Cítrica con Naranja Sanguina)",
+    "tipo": "Destilado",
+    "pais_origen": "España",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Baya de Enebro y Naranja Sanguina",
+    "fecha_creacion_año": 2018,
+    "precio_dolares": 35
+  },
+  {
+    "id": 343,
+    "nombre": "Vino Tinto (Chianti)",
+    "tipo": "Vino Tinto",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 12.5,
+    "ingrediente_principal": "Uva Sangiovese",
+    "fecha_creacion_año": 1716,
+    "precio_dolares": 12
+  },
+  {
+    "id": 344,
+    "nombre": "Licor de Hierbas (Amaro Averna)",
+    "tipo": "Licor de Hierbas",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 29.0,
+    "ingrediente_principal": "Hierbas y Cítricos",
+    "fecha_creacion_año": 1868,
+    "precio_dolares": 25
+  },
+  {
+    "id": 345,
+    "nombre": "Cerveza Porter (Robusta con Café)",
+    "tipo": "Cerveza Ale Oscura",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 6.8,
+    "ingrediente_principal": "Malta Tostada y Café",
+    "fecha_creacion_año": 2005,
+    "precio_dolares": 6
+  },
+  {
+    "id": 346,
+    "nombre": "Whisky (Blended Japonesa Premium)",
+    "tipo": "Destilado (Blended)",
+    "pais_origen": "Japón",
+    "graduacion_alcohol": 43.0,
+    "ingrediente_principal": "Cebada malteada y Cereal",
+    "fecha_creacion_año": 1989,
+    "precio_dolares": 55
+  },
+  {
+    "id": 347,
+    "nombre": "Vino Blanco (Riesling de Alsacia)",
+    "tipo": "Vino Blanco Seco",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 12.5,
+    "ingrediente_principal": "Uva Riesling",
+    "fecha_creacion_año": 1400,
+    "precio_dolares": 20
+  },
+  {
+    "id": 348,
+    "nombre": "Ron Añejo (Venezuela Ron)",
+    "tipo": "Destilado",
+    "pais_origen": "Venezuela",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Melaza de caña de azúcar",
+    "fecha_creacion_año": 1896,
+    "precio_dolares": 35
+  },
+  {
+    "id": 349,
+    "nombre": "Licor de Absenta (Blanca/La Blanche)",
+    "tipo": "Destilado de Hierbas",
+    "pais_origen": "Suiza",
+    "graduacion_alcohol": 60.0,
+    "ingrediente_principal": "Ajenjo y Anís (Sin color)",
+    "fecha_creacion_año": 1805,
+    "precio_dolares": 60
+  },
+  {
+    "id": 350,
+    "nombre": "Cerveza Sour Ale (Con Fruta)",
+    "tipo": "Cerveza Ale Ácida",
+    "pais_origen": "Estados Unidos",
+    "graduacion_alcohol": 5.5,
+    "ingrediente_principal": "Lactobacillus y Fruta",
+    "fecha_creacion_año": 2010,
+    "precio_dolares": 7
+  },
+  {
+    "id": 351,
+    "nombre": "Vino Tinto (Cabernet Franc)",
+    "tipo": "Vino Tinto",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 13.0,
+    "ingrediente_principal": "Uva Cabernet Franc",
+    "fecha_creacion_año": 1600,
+    "precio_dolares": 18
+  },
+  {
+    "id": 352,
+    "nombre": "Brandy (Brandy de Cereza - Maraschino)",
+    "tipo": "Destilado de fruta",
+    "pais_origen": "Croacia",
+    "graduacion_alcohol": 40.0,
+    "ingrediente_principal": "Cereza Marasca",
+    "fecha_creacion_año": 1759,
+    "precio_dolares": 45
+  },
+  {
+    "id": 353,
+    "nombre": "Ginebra (Gin con Especias)",
+    "tipo": "Destilado (Saborizado)",
+    "pais_origen": "Reino Unido",
+    "graduacion_alcohol": 42.0,
+    "ingrediente_principal": "Baya de Enebro y especias exóticas",
+    "fecha_creacion_año": 2015,
+    "precio_dolares": 40
+  },
+  {
+    "id": 354,
+    "nombre": "Licor de Alcaravea (Akvavit Noruego)",
+    "tipo": "Destilado de Hierbas",
+    "pais_origen": "Noruega",
+    "graduacion_alcohol": 41.5,
+    "ingrediente_principal": "Patata y Alcaravea",
+    "fecha_creacion_año": 1500,
+    "precio_dolares": 30
+  },
+  {
+    "id": 355,
+    "nombre": "Cerveza Kellerbier",
+    "tipo": "Cerveza Lager (Sin Filtrar)",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 5.0,
+    "ingrediente_principal": "Malta y levadura",
+    "fecha_creacion_año": 1800,
+    "precio_dolares": 3
+  },
+  {
+    "id": 356,
+    "nombre": "Vino Fortificado (Jerez Manzanilla)",
+    "tipo": "Vino Fortificado",
+    "pais_origen": "España",
+    "graduacion_alcohol": 15.0,
+    "ingrediente_principal": "Uva Palomino",
+    "fecha_creacion_año": 1700,
+    "precio_dolares": 15
+  },
+  {
+    "id": 357,
+    "nombre": "Ron (Ron Agrícola Overproof)",
+    "tipo": "Destilado (Alta Graduación)",
+    "pais_origen": "Martinica (Francia)",
+    "graduacion_alcohol": 55.0,
+    "ingrediente_principal": "Jugo de caña de azúcar",
+    "fecha_creacion_año": 1800,
+    "precio_dolares": 40
+  },
+  {
+    "id": 358,
+    "nombre": "Licor de Amargo (Amer Picon)",
+    "tipo": "Amargo",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 18.0,
+    "ingrediente_principal": "Naranja y Genciana",
+    "fecha_creacion_año": 1837,
+    "precio_dolares": 28
+  },
+  {
+    "id": 359,
+    "nombre": "Cerveza Gose (Con Cilantro)",
+    "tipo": "Cerveza de Trigo (Ácida)",
+    "pais_origen": "Alemania",
+    "graduacion_alcohol": 4.5,
+    "ingrediente_principal": "Cilantro y Sal",
+    "fecha_creacion_año": 1740,
+    "precio_dolares": 4
+  },
+  {
+    "id": 360,
+    "nombre": "Vino Blanco (Sauternes (Añejo))",
+    "tipo": "Vino de postre",
+    "pais_origen": "Francia",
+    "graduacion_alcohol": 13.0,
+    "ingrediente_principal": "Uva Sémillon (Botritis)",
+    "fecha_creacion_año": 1855,
+    "precio_dolares": 150
+  },
+  {
+    "id": 361,
+    "nombre": "Whisky de Malta (Lagavulin 16 años)",
+    "tipo": "Destilado (Single Malt Islay Fuerte)",
+    "pais_origen": "Escocia",
+    "graduacion_alcohol": 43.0,
+    "ingrediente_principal": "Cebada malteada (Mucha Turba)",
+    "fecha_creacion_año": 1816,
+    "precio_dolares": 90
+  },
+  {
+    "id": 362,
+    "nombre": "Licor de Crema (Crema de Whisky con Miel)",
+    "tipo": "Licor Crema",
+    "pais_origen": "Irlanda",
+    "graduacion_alcohol": 17.0,
+    "ingrediente_principal": "Whisky, Crema y Miel",
+    "fecha_creacion_año": 2005,
+    "precio_dolares": 25
+  },
+  {
+    "id": 363,
+    "nombre": "Cerveza Witbier (Saborizada)",
+    "tipo": "Cerveza de Trigo",
+    "pais_origen": "Bélgica",
+    "graduacion_alcohol": 5.0,
+    "ingrediente_principal": "Trigo no malteado y Especias",
+    "fecha_creacion_año": 1400,
+    "precio_dolares": 4
+  },
+  {
+    "id": 364,
+    "nombre": "Vino Tinto (Valpolicella Ripasso)",
+    "tipo": "Vino Tinto",
+    "pais_origen": "Italia",
+    "graduacion_alcohol": 13.5,
+    "ingrediente_principal": "Uva Corvina (Segunda Fermentación)",
+    "fecha_creacion_año": 1964,
+    "precio_dolares": 25
+  },
+  {
+    "id": 365,
+    "nombre": "Ginebra (Gin Sloe Casera)",
+    "tipo": "Licor de Fruta (Base Gin)",
+    "pais_origen": "Inglaterra",
+    "graduacion_alcohol": 25.0,
+    "ingrediente_principal": "Baya de Endrina",
+    "fecha_creacion_año": 1600,
+    "precio_dolares": 30
+  }
+]

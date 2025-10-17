@@ -60,6 +60,14 @@ button {
     cursor: pointer;
     background-color: #EEEEEE;
     box-shadow: 0 0 0 1px #000;
+    transition: transform 0.3s ease-in-out;
+    transform: scale(1);
+}
+
+button:hover {
+   
+    transform: scale(1.05);
+    box-shadow: 0 0 10px 2px #000;
 }
 
 footer {
@@ -71,6 +79,13 @@ footer {
         left: 0;
         bottom: 0;
         width: "100%";
+}
+.footerIcons {
+   transition: transform 0.3s ease-in-out;
+    transform: scale(1); 
+}
+.footerIcons :hover {
+    transform: scale(1.2);
 }
 
 @media (min-width: 632px) and (max-width: 1000px) {

@@ -9,7 +9,7 @@ const Footer = () => (
 
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 24 }}>
             <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
-                <span className="footer-socials-text">Follow my socials for more games!</span>
+                <span>Follow my socials for more games!</span>
                 <a
                     href="https://twitter.com/XavivoDev"
                     target="_blank"
@@ -45,7 +45,8 @@ const Footer = () => (
                 </a>
             </div>
 
-            <img src="/ko-fi_logo.webp" alt="ko-fi_Logo" style={{ width: 50, height: 'auto' }} />
+            <a className="footerIcons" href="https://ko-fi.com/xavivodev"> <img src="/ko-fi_logo.webp" alt="ko-fi_Logo" style={{ width: 55, height: 'auto' }} /> </a>
+            
         </div>
     </footer>
 );
