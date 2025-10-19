@@ -1,0 +1,9 @@
+.guess-row {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 10px;
+    flex-wrap: wrap; /* Allow items to wrap on smaller screens */
+}
+
+/*Posiblemente vincular este css y el de infobox.*/

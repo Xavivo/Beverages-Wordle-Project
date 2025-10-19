@@ -2,7 +2,6 @@
     font-family: 'Quantico', sans-serif;
     margin-left: auto;
     margin-right: auto;
-    margin-top: -20px;
     border: 2px solid rgba(0,0,0,0.15);
     border-radius: 50px;
     padding: 20px;
@@ -10,6 +9,11 @@
     background-color: rgba(245, 245, 220, 0.2);
     box-shadow: 0 0 16px 4px rgba(0,0,0,0.60);
     backdrop-filter: blur(10px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    margin-top: 8px;
 }
 
 .card p {
@@ -19,13 +23,142 @@
     text-align: center;
 }
 
+.card-logo {
+    width: 48px;
+    height: auto;
+}
+
+.classic-title {
+    margin-top: 48px;
+    text-align: center;
+}
+
+.challenge-box {
+    margin-top: 24px;
+    background: rgba(255,255,255,0.9);
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.2);
+    max-width: 720px;
+    width: 90%;
+    border: 2px solid rgba(0,0,0,0.8);
+    text-align: center;
+}
+
+.challenge-box h2 {
+    margin: 0;
+    color: #333;
+    font-size: 34px;
+    font-family: 'Fontdiner Swanky', cursive;
+}
+
+.challenge-box p {
+    margin-top: 8px;
+    color: #333;
+    font-family: 'Quantico', sans-serif;
+}
+
+.guess-form {
+    margin-top: 20px;
+    width: 90%;
+    max-width: 720px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.guess-input {
+    width: 100%;
+    padding: 16px 12px;
+    font-size: 18px;
+    border-radius: 8px;
+    border: 2px solid rgba(0,0,0,0.12);
+}
+
+.guesses-container {
+    margin-top: 20px;
+    width: 100%;
+    max-width: 1200px;
+    padding: 0 10px;
+    box-sizing: border-box;
+}
+
+.game-over-box {
+    margin-top: 24px;
+    background: rgba(255,255,255,0.95);
+    padding: 30px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.2);
+}
+
+.game-over-box h2 {
+    font-family: 'Fontdiner Swanky', sans-serif;
+    font-size: 3rem;
+}
+
+.game-over-box p {
+    font-family: 'Quantico', sans-serif;
+    font-size: 1.5rem;
+}
+
 footer {
-    background: "transparent";
+    background: transparent;
     padding-top: 50px;
-        color: "#fff";
-        text-align: center;
-        padding: "1rem 0";
-        left: 0;
-        bottom: 0;
-        width: 100%;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+/* --- Media Queries for Responsiveness --- */
+
+@media (max-width: 768px) {
+    .card {
+        max-width: 90%;
+        padding: 15px;
+        flex-direction: column;
+    }
+    .card p {
+        font-size: 16px;
+    }
+    .challenge-box h2 {
+        font-size: 28px;
+    }
+    .guess-input {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 480px) {
+    .classic-title {
+        font-size: 60px;
+    }
+    .card {
+        padding: 10px;
+        gap: 8px;
+    }
+    .card p {
+        font-size: 14px;
+    }
+    .card-logo {
+        width: 32px;
+    }
+    .challenge-box {
+        width: 95%;
+    }
+    .challenge-box h2 {
+        font-size: 24px;
+    }
+    .challenge-box p {
+        font-size: 14px;
+    }
+    .game-over-box h2 {
+        font-size: 2rem;
+    }
+    .game-over-box p {
+        font-size: 1.2rem;
+    }
 }

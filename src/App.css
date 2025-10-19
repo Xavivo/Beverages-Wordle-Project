@@ -152,7 +152,7 @@ footer {
     }
     p {
         font-size: 12px;
-        padding: 0 15px; /* Padding for a better separation in medium-small devices */
+        padding: 0 15px; 
     }
     .background-video {
         min-width: 100vw;

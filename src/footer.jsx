@@ -9,7 +9,7 @@ const Footer = () => (
 
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 24 }}>
             <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
-                <span>Follow my socials for more games!</span>
+                <span className="footer-socials-text">Follow my socials for more games!</span>
                 <a
                     href="https://twitter.com/XavivoDev"
                     target="_blank"
