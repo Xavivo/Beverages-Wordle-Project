@@ -1,0 +1,8 @@
+/* Reusing styles from classic.css for consistency */
+@import './classic.css';
+
+.guesses-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}

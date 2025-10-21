@@ -3,7 +3,7 @@ import './classic.css';
 import Footer from './footer.jsx';
 import { getDailyDrink } from './utils/getDailyDrink.js';
 import drinks from './drinks.json';
-import GuessRow from './components/GuessRow.jsx'; // We will create this component next
+import GuessRow from './components/GuessRow.jsx';
 
 function Classic() {
   const [dailyDrink, setDailyDrink] = useState(null);

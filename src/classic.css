@@ -113,7 +113,6 @@ footer {
     width: 100%;
 }
 
-/* --- Media Queries for Responsiveness --- */
 
 @media (max-width: 768px) {
     .card {
