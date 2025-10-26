@@ -29,7 +29,7 @@ function App() {
           <Button text={"Description"} subtitle={"Guess by a phrase"} to="/description" />
         </div>
         <div style={{ display: 'flex', gap: '24px' }}>
-          <Button text={"Siluette"} subtitle={"Guess from the outline!"} to="/siluette" />
+          <Button text={"Wine mode"} subtitle={"Are you a wine expert?"} to="/wine" />
           <Button text={"Cocktail mode"} subtitle={"Mix it up!"} to="/cocktail" />
         </div>
       </div>

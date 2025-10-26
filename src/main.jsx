@@ -6,7 +6,7 @@ import App from './App.jsx'
 import Classic from './classic.jsx'
 import Description from './description.jsx' 
 import CocktelMode from './cocktelMode.jsx'
-import Siluette from './siluette.jsx'
+import WineMode from './wineMode.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -16,7 +16,7 @@ createRoot(document.getElementById('root')).render(
         <Route path="/classic" element={<Classic />} />
         <Route path="/description" element={<Description />} />
         <Route path="/cocktail" element={<CocktelMode />} />
-        <Route path="/siluette" element={<Siluette />} />
+        <Route path="/wine" element={<WineMode />} />
       </Routes>
     </BrowserRouter>
   </StrictMode>,
