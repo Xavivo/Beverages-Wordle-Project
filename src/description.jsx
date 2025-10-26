@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { Link } from 'react-router-dom';
 import './App.css';
 import './cocktailMode.css';
 import Footer from './footer.jsx';
@@ -41,6 +42,7 @@ function Description() {
 
   return (
     <div className="app-background" style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+    <Link to="/" className="back-btn">← Home</Link>
       <video
         autoPlay
         loop

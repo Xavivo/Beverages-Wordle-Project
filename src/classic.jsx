@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { Link } from 'react-router-dom';
 import './classic.css';
 import Footer from './footer.jsx';
 import { getDailyDrink } from './utils/getDailyDrink.js';
@@ -44,6 +45,7 @@ function Classic() {
 
   return (
     <div className="app-background" style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+      <Link to="/" className="back-btn">← Home</Link>
       <video
         autoPlay
         loop
